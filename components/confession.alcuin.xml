@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="confession.alcuin">
+  <subject>Confession</subject>
+  <author>Alcuin of York</author>
+  <source ref="tileston">Quoted in Tileston, attributed to Alcuin of York</source>
+  <original>
+    <p>Almighty and merciful God, the Fountain of all Goodness, who knowest the thoughts of our hearts, we confess unto Thee that we have sinned against Thee, and done evil in Thy sight. Wash us, we beseech Thee, from the stains of our past sins, and give us grace and power to put away all hurtful things; so that, being delivered from the bondage of sin, we may bring forth worthy fruits of repentance. O eternal Light, shine into our hearts. O eternal Goodness, deliver us from evil. O eternal Power, be Thou our support. Eternal Wisdom, scatter the darkness of our ignorance. Eternal Pity, have mercy upon us. Grant unto us that with all our hearts, and minds, and strength, we may evermore seek Thy face; and finally bring us, in Thine infinite mercy, to Thy holy presence. So strengthen our weakness that, following in the footsteps of Thy blessed Son, we may obtain Thy mercy, and enter into Thy promised joy — Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Almighty and merciful God, the fountain of all goodness, you know the thoughts of our hearts. We confess to you that we have sinned against you and done evil in your sight. Wash us, we pray, from the stains of our past sins, and give us grace and strength to put away all that is harmful; so that, set free from the bondage of sin, we may bring forth worthy fruits of repentance.</p>
+      <p><line>Eternal Light, shine into our hearts.</line><line>Eternal Goodness, deliver us from evil.</line><line>Eternal Power, be our support.</line><line>Eternal Wisdom, scatter the darkness of our ignorance.</line><line>Eternal Mercy, have mercy on us;</line></p>
+      <p>so that with all our heart, and mind, and strength, we may seek your face, and be brought by your infinite mercy into your holy presence; through Jesus Christ our Lord.</p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

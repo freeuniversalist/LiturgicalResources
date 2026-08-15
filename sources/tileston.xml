@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="tileston">
+  <name>Prayers Ancient and Modern</name>
+  <author>Mary Wilder Tileston (compiler)</author>
+  <publisher>Little, Brown and Company, Boston</publisher>
+  <date>1928</date>
+  <url>https://archive.org/details/prayersancientmo0000mary_p9p8</url>
+  <note>Daily prayer anthology, first published 1897 (Doubleday and
+  McClure, New York); intermediate Little, Brown editions 1907, 1914,
+  1921. The 1928 Little, Brown edition is the last, and is in the US
+  public domain (published before 1931).</note>
+  <match>\bTileston\b</match>
+</source>

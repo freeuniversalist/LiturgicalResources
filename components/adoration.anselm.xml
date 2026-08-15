@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="adoration.anselm">
+  <subject>Adoration</subject>
+  <author>Anselm of Canterbury</author>
+  <source ref="tileston">Quoted in Tileston, from Anselm of Canterbury, Proslogion, chs. 1, 18, and 26</source>
+  <original>
+	  <p>God, Thou art Life, Wisdom, Truth, Bounty, and Blessedness, the Eternal, the only true Good! My God and my Lord, Thou art my hope and my heart’s joy. I confess, with thanksgiving, that Thou hast made me in Thine image, that I may direct all my thoughts to Thee, and love Thee. Lord, make me to know Thee aright, that I may more and more love, and enjoy, and possess Thee. And since, in the life here below, I cannot fully attain this blessedness, let it at least grow in me day by day, until it all be fulfilled at last in the life to come. Here be the knowledge of Thee increased, and there let it be perfected. Here let my love to Thee grow, and there let it ripen; that my joy being here great in hope, may there in fruition be made perfect — Amen.
+	</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>O God, you are life, wisdom, truth, bounty, and blessedness, the eternal, the only true good; our God and our Lord, you are our hope and our heart’s joy. We acknowledge with thanksgiving that you have made us in your image, and that we may direct our thoughts to you. Lord, make us know you aright, that we may love, enjoy, and possess you more and more, through Jesus Christ our Lord. Amen</p>
+    </block>
+  </text>
+</component>

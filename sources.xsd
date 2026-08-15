@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  sources.xsd — schema for the hand-authored source records in sources/.
+
+  One file per shared bibliographic source, named <id>.xml with a
+  matching id attribute.  Components reference records via the ref
+  attribute on their <source> element (written by ../toXML.py, which
+  applies each record's <match> regex to the component's citation text
+  and header strings).
+
+  These files are inputs, not generated — edit them directly.
+  Validate with `make lint` in this directory.
+-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+  <xs:element name="source">
+    <xs:complexType>
+      <xs:sequence>
+        <!-- title of the work, or a short label if unidentified -->
+        <xs:element name="name" type="xs:string"/>
+        <xs:element name="author" type="xs:string" minOccurs="0"/>
+        <xs:element name="publisher" type="xs:string" minOccurs="0"/>
+        <xs:element name="date" type="xs:string" minOccurs="0"/>
+        <xs:element name="url" type="xs:anyURI" minOccurs="0"/>
+        <xs:element name="note" type="xs:string" minOccurs="0"/>
+        <!-- regex applied to component citation/header text by toXML.py
+             to decide which components reference this record -->
+        <xs:element name="match" type="xs:string" minOccurs="0"/>
+        <!-- id of a record this one is a specific edition of; when both
+             match a component, the broader ref is dropped -->
+        <xs:element name="broader" type="xs:NCName" minOccurs="0"/>
+      </xs:sequence>
+      <xs:attribute name="id" type="xs:NCName" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
