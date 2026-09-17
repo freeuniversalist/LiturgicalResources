@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="law.lev19">
+  <subject>The Law</subject>
+  <title>Reading of the Law</title>
+  <scripture>Leviticus 19:13</scripture>
+  <source ref="web">Leviticus 19:13 (World English Bible), verbatim.</source>
+  <original>
+    <p>Leviticus 19:13 (WEB): You shall not oppress your neighbor, nor rob him. The wages of a hired servant shall not remain with you all night until the morning.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>You shall not oppress your neighbor, nor rob him.</p>
+      <p>The wages of a hired servant shall not remain with you all night until the morning.</p>
+    </block>
+  </text>
+</component>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="confession.anselm">
+  <subject>Confession</subject>
+  <author>Anselm of Canterbury</author>
+  <source ref="anselm-deane">Anselm, Proslogium, chapter I, translated by Sidney Norton Deane (1903), p. 6. Modernised.</source>
+  <original>
+    <p>Lord, I am bowed down and can only look downward; raise me up that I may look upward. My iniquities have gone over my head; they overwhelm me; and, like a heavy load, they weigh me down. Free me from them; unburden me, that the pit of iniquities may not close over me.</p>
+    <p>Be it mine to look up to thy light, even from afar, even from the depths. Teach me to seek thee, and reveal thyself to me, when I seek thee, for I cannot seek thee, except thou teach me, nor find thee, except thou reveal thyself. Let me seek thee in longing, let me long for thee in seeking; let me find thee in love, and love thee in finding.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Lord, I am bowed down and can only look downward; raise me up that I may look upward. My iniquities have gone over my head; they overwhelm me; and, like a heavy load, they weigh me down. Free me from them; unburden me, that the pit of iniquities may not close over me.</p>
+      <p>Be it mine to look up to your light, even from afar, even from the depths. Teach me to seek you, and reveal yourself to me, when I seek you, for I cannot seek you, except you teach me, nor find you, except you reveal yourself. Let me seek you in longing, let me long for you in seeking; let me find you in love, and love you in finding</p>
+    </block>
+  </text>
+</component>

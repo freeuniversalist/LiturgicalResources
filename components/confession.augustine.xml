@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="confession.augustine">
+  <subject>Confession</subject>
+  <author>Augustine of Hippo</author>
+  <source ref="augustine-pusey">Augustine, Confessions, book I, chapter 5, translated by E. B. Pusey (1838), p. 4. https://ccel.org/ccel/augustine/confess.ii.v.html Modernised and abridged.</source>
+  <original>
+    <p>Lord, cleanse me from my secret faults, and spare Thy servant from the power of the enemy. I believe, and therefore do I speak. Lord, Thou knowest. Have I not confessed against myself my transgressions unto Thee, and Thou, my God, hast forgiven the iniquity of my heart? I contend not in judgment with Thee, who art the truth; I fear to deceive myself; lest mine iniquity lie unto itself. Therefore I contend not in judgment with Thee; for if Thou, Lord, shouldest mark iniquities, O Lord, who shall abide it?</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Cleanse me from my secret faults, O Lord, and spare your servant from the power of the enemy. I contend not in judgment with you, who are the truth; I fear to deceive myself, lest my iniquity lie to itself. Therefore I contend not in judgment with you; for if you, Lord, should mark iniquities, O Lord, who shall abide it? Amen.</p>
+    </block>
+  </text>
+</component>

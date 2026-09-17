@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="fox-chain-of-prayer">
+  <name>A Chain of Prayer Across the Ages: Forty Centuries of Prayer, 2000 B.C.–A.D. 1912</name>
+  <author>Selina Fitzherbert Fox (compiler)</author>
+  <publisher>John Murray, London; Bell and Cockburn, Toronto</publisher>
+  <date>1913</date>
+  <url>https://archive.org/details/chainofprayeracr00foxsuoft</url>
+  <note>Anthology arranged for daily use. In the US public domain (published 1913). Fox died 1958, so in life-plus-70 countries her own contributions are in copyright until the end of 2028; the older prayers she reprints are not hers.</note>
+  <match>\bFox\b|Chain of Prayer</match>
+</source>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-repentance.06">
+  <subject>Call to Repentance</subject>
+  <scripture>Matthew 3:2</scripture>
+  <source ref="oeb">Matthew 3:2 (Open English Bible, release 2025.6, CC0), verbatim.</source>
+  <original>
+    <p>Matthew 3:2 (OEB 2025.6): “Repent, for the kingdom of heaven is at hand.”</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Repent, for the kingdom of heaven is at hand.</p>
+    </block>
+  </text>
+</component>

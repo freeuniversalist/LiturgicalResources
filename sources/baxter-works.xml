@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="baxter-works">
+  <name>The Practical Works of the Rev. Richard Baxter, with a Life of the Author</name>
+  <author>Richard Baxter; edited by William Orme</author>
+  <publisher>James Duncan, London</publisher>
+  <date>1830</date>
+  <url>https://archive.org/details/practicalworksof07baxtuoft</url>
+  <note>Twenty-three volumes; public domain. Volume 7 holds A Call to the Unconverted with its appended forms of prayer.</note>
+  <match>\bBaxter\b</match>
+</source>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-repentance.02">
+  <subject>Call to Repentance</subject>
+  <scripture>1 John 4:7-8, 20-21</scripture>
+  <source ref="oeb web">1 John 4:7-8 adapted from the World English Bible (pronouns made inclusive); 1 John 4:20-21 from the Open English Bible, release 2025.6 (US spelling), CC0.</source>
+  <original>
+    <p>1 John 4:7-8 (WEB): Beloved, let us love one another, for love is of God; and everyone who loves has been born of God, and knows God. He who doesn’t love doesn’t know God, for God is love.</p>
+    <p>1 John 4:20-21 (OEB 2025.6): If someone says ‘I love God,’ and yet hates others, they are a liar. For the person who does not love their brother or sister, whom they have seen, cannot love God, whom they have not seen. Indeed, we have this command from Christ: Those who love God must also love each other.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Beloved, let us love one another, for love is of God; and everyone who loves is born of God, and knows God. The person who doesn’t love doesn’t know God, for God is love.</p>
+      <p>If someone says ‘I love God,’ and yet hates others, they are a liar. For the person who does not love their brother or sister, whom they have seen, cannot love God, whom they have not seen.  Indeed, we have this command from Christ: Those who love God must also love each other.</p>
+    </block>
+  </text>
+</component>

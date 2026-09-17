@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="duemmler-poetae">
+  <name>Poetae Latini Aevi Carolini, vol. 1 (Monumenta Germaniae Historica)</name>
+  <author>Ernst Dümmler (editor)</author>
+  <publisher>Weidmann, Berlin</publisher>
+  <date>1881</date>
+  <url>https://archive.org/details/poetaelatiniaevi00dm</url>
+  <note>Public domain. Theodulf of Orléans's poems are edited on pp. 437–581.</note>
+  <match>D(ü|ue)mmler|Poetae Latini</match>
+</source>

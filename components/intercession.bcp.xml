@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="intercession.bcp">
+  <subject>Intercession</subject>
+  <title>Prayer of Intercession</title>
+  <author>Book of Common Prayer (1549)</author>
+  <source ref="edward-vi-prayer-books">Collect after the Offertory, Book of Common Prayer 1549 (unchanged in 1552 and 1662), in The First and Second Prayer-Books of King Edward the Sixth (Everyman, 1913), pp. 228–229 (1552: pp. 391–392). Modernised; "fountain of all wisdom" printed "fountain of wisdom".</source>
+  <original>
+    <p>Almightie God, the fountayn of all wisdome, which knowest our necessities beefore we aske, and our ignoraunce in asking: we beseche thee to haue compassion upon our infirmities, and those thynges, whiche for our unwoorthines we dare not, and for our blindnes we cannot aske, vouchsaue to geue us for the woorthines of thy sonne Jesu Christ our Lorde. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Almighty God, the fountain of wisdom, you know our necessities before we ask, and our ignorance in asking; we ask you to have compassion upon our weaknesses; and those things, which for our unworthiness we dare not, and for our blindness we cannot ask, grant to give us for the worthiness of your Son, Jesus Christ our Lord. Amen.</p>
+    </block>
+  </text>
+</component>

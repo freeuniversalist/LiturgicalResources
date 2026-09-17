@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.post-communion-ps103">
+  <subject>Eucharist</subject>
+  <title>Thanksgiving after Communion</title>
+  <scripture>Psalm 103:1-5; 2 Corinthians 9:15</scripture>
+  <source ref="bcp-1979 web">Psalm 103:1-5, Psalter of the Book of Common Prayer (1979), verbatim. Response: 2 Corinthians 9:15 (World English Bible). Every spoken word is scripture.</source>
+  <original>
+    <p>Psalm 103:1-5 (BCP 1979): Bless the LORD, O my soul, * and all that is within me, bless his holy Name. Bless the LORD, O my soul, * and forget not all his benefits. He forgives all your sins * and heals all your infirmities; He redeems your life from the grave * and crowns you with mercy and loving-kindness; He satisfies you with good things, * and your youth is renewed like an eagle’s.</p>
+    <p>2 Corinthians 9:15 (WEB): Now thanks be to God for his unspeakable gift!</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Bless the Lord, O my soul,</line>
+        <line indent="4">and all that is within me, bless his holy Name.</line>
+        <line>Bless the Lord, O my soul,</line>
+        <line indent="4">and forget not all his benefits.</line>
+        <line>He forgives all your sins</line>
+        <line indent="4">and heals all your infirmities;</line>
+        <line>He redeems your life from the grave</line>
+        <line indent="4">and crowns you with mercy and loving-kindness;</line>
+        <line>He satisfies you with good things,</line>
+        <line indent="4">and your youth is renewed like an eagle’s.</line>
+      </p>
+      <response>Now thanks be to God for his unspeakable gift!</response>
+    </block>
+  </text>
+</component>

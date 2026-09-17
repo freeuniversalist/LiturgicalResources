@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="calvin-edwards-1897">
+  <name>Scripture Texts with Expositions and Sentence-Prayers from Calvin's Commentaries on the Minor Prophets</name>
+  <author>John Calvin; compiled by Charles E. Edwards</author>
+  <publisher>Presbyterian Board of Publication and Sabbath-school Work, Philadelphia</publisher>
+  <date>1897</date>
+  <url>https://archive.org/details/scripturetextswi00calv</url>
+  <note>Public domain. Reprints the prayers that close Calvin's lectures, in John Owen's translation for the Calvin Translation Society (Edinburgh, 1846–1849).</note>
+  <match>\bCalvin\b</match>
+</source>

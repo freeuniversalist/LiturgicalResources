@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.bread">
+  <subject>Eucharist</subject>
+  <title>The Bread</title>
+  <source ref="orchard-1921">W. E. Orchard, The Order of Divine Service (1921), A Simple Observance of the Lord's Supper, pp. 116–117 (Matthew 26:26 with 1 Corinthians 11:24). Lightly modernised; Orchard's rubrics for the President are made general.</source>
+  <original>
+    <p>And as they were eating, Jesus took bread, (Here the President may take the bread into his hands.) and blessed. Here the Holy Spirit should be silently invoked. and brake it; (Here the President may break the bread.) and he gave to the disciples, and said, Take, eat; this is my body which is broken for you.</p>
+    <p>Adoration.</p>
+    <p>This do in remembrance of me. (Here all partake of the bread.)</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>And as they were eating, Jesus took bread,</p>
+      <rubric>Here the bread is taken up</rubric>
+      <p>and blessed it,</p>
+      <p>
+        <em>Here the Holy Spirit is silently invoked.</em>
+      </p>
+      <p>and broke it,</p>
+      <rubric>Here the bread is broken</rubric>
+      <p>and he gave it to the disciples, and said, Take, eat; this is my body, which is broken for you.</p>
+      <p>
+        <em>Adoration.</em>
+      </p>
+      <p>This do in remembrance of me.</p>
+      <rubric>Here all partake of the bread</rubric>
+    </block>
+  </text>
+</component>

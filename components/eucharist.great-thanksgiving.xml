@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.great-thanksgiving">
+  <subject>Eucharist</subject>
+  <title>The Great Thanksgiving</title>
+  <source ref="web">Original composition, CC0. The opening dialogue (Sursum corda), the Sanctus and the closing doxology are traditional common texts. The institution narrative is adapted from 1 Corinthians 11:23-25 (World English Bible), with "given for you" and "poured out for you" from Luke 22:19-20, "for the forgiveness of sins" from Matthew 26:28, "for all people" per 1 Timothy 2:6, and "in memory of me" rendered "in remembrance of me". Imagery from Isaiah 25:6-9, John 1:14, Luke 15:3-7, John 12:32 and 1 Corinthians 15:28.</source>
+  <original>
+    <p>1 Corinthians 11:23-25 (WEB): For I received from the Lord that which also I delivered to you, that the Lord Jesus on the night in which he was betrayed took bread. When he had given thanks, he broke it, and said, “Take, eat. This is my body, which is broken for you. Do this in memory of me.” In the same way he also took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink, in memory of me.”</p>
+    <p>Luke 22:19-20 (WEB): He took bread, and when he had given thanks, he broke, and gave it to them, saying, “This is my body which is given for you. Do this in memory of me.” Likewise, he took the cup after supper, saying, “This cup is the new covenant in my blood, which is poured out for you.</p>
+    <p>Matthew 26:28 (WEB): for this is my blood of the new covenant, which is poured out for many for the remission of sins.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>The Lord be with you.</p>
+      <response>And also with you.</response>
+      <p>Lift up your hearts.</p>
+      <response>We lift them up to the Lord.</response>
+      <p>Let us give thanks to the Lord our God.</p>
+      <response>It is right to give our thanks and praise.</response>
+      <p>It is right, and a good and joyful thing, always and everywhere to give you thanks, God of all creation. You made the heavens and the earth and called them good; you made of one blood all the peoples of the world; and when we wander from you, your love does not let us go. Through your prophets you promised that on your holy mountain you would make for all peoples a feast of rich food and well-aged wine; that you would swallow up death for ever, and wipe away the tears from every face. And so, with all your creatures in heaven and on earth, we join the unending hymn:</p>
+      <response>
+        <line>Holy, holy, holy Lord,</line>
+        <line>God of power and might,</line>
+        <line>heaven and earth are full of your glory.</line>
+        <line>Hosanna in the highest.</line>
+        <line>Blessed is the one who comes in the name of the Lord.</line>
+        <line>Hosanna in the highest.</line>
+      </response>
+      <p>Blessed are you, holy God, in your Son Jesus Christ, who came among us full of grace and truth. He ate with the outcast and the sinner; he told of a shepherd who searches until the last lost sheep is found; and, lifted up from the earth, he promised to draw all people to himself.</p>
+      <p>On the night he was handed over, he took bread, and when he had given thanks he broke it and gave it to his friends, saying: Take, eat; this is my body, which is given for you. Do this in remembrance of me.</p>
+      <p>In the same way after supper he took the cup, saying: This cup is the new covenant in my blood, poured out for you and for all people for the forgiveness of sins. Do this, as often as you drink it, in remembrance of me.</p>
+      <p>Pour out your Holy Spirit on us, and on this bread and cup, that in them we may know the presence of the living Christ, and be made one body in him — a foretaste of the feast you have prepared for all peoples — until death is swallowed up for ever and you are all in all.</p>
+      <p>Through Christ, with Christ, and in Christ, in the unity of the Holy Spirit, all honour and glory are yours, God of unfailing love, now and for ever.</p>
+      <response>Amen.</response>
+    </block>
+  </text>
+</component>

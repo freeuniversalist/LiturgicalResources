@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="law.is58-6">
+  <subject>The Law</subject>
+  <title>Reading of the Law</title>
+  <scripture>Isaiah 58:6-7</scripture>
+  <source ref="web">Isaiah 58:6-7 (World English Bible), verbatim; the opening quotation mark omitted.</source>
+  <original>
+    <p>Isaiah 58:6-7 (WEB): “Isn’t this the fast that I have chosen: to release the bonds of wickedness, to undo the straps of the yoke, to let the oppressed go free, and that you break every yoke? Isn’t it to distribute your bread to the hungry, and that you bring the poor who are cast out to your house? When you see the naked, that you cover him; and that you not hide yourself from your own flesh?</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Isn’t this the fast that I have chosen:</line>
+        <line>to release the bonds of wickedness,</line>
+        <line>to undo the straps of the yoke,</line>
+        <line>to let the oppressed go free,</line>
+        <line>and that you break every yoke?</line>
+      </p>
+      <p>
+        <line>Isn’t it to distribute your bread to the hungry,</line>
+        <line>and that you bring the poor who are cast out to your house?</line>
+        <line>When you see the naked, that you cover him;</line>
+        <line>and that you not hide yourself from your own flesh?</line>
+      </p>
+    </block>
+  </text>
+</component>

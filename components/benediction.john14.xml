@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="benediction.john14">
+  <subject>Benediction</subject>
+  <scripture>John 14:27</scripture>
+  <source ref="orchard-1921">W. E. Orchard, The Order of Divine Service (1921), A Simple Observance of the Lord's Supper, p. 118: the hymn rubric and Benediction (John 14:27). Lightly modernised.</source>
+  <original>
+    <p>(Here the President may announce a Hymn, saying, And when they had sung a hymn they went out.)</p>
+    <p>Peace I leave with you; my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <rubric>A hymn may first be sung: "And when they had sung a hymn, they went out"</rubric>
+      <p>Peace I leave with you; my peace I give to you: not as the world gives, give I to you. Let not your hearts be troubled, neither let them be afraid.</p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

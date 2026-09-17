@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.proclamation">
+  <subject>Eucharist</subject>
+  <title>Proclamation</title>
+  <scripture>1 Corinthians 11:26</scripture>
+  <source ref="orchard-1921">W. E. Orchard, The Order of Divine Service (1921), A Simple Observance of the Lord's Supper, p. 117 (1 Corinthians 11:26). Lightly modernised.</source>
+  <original>
+    <p>For as often as ye eat this bread, and drink the cup, ye proclaim the Lord's death till he come.</p>
+    <p>Prayer pleading the sacrifice of Christ and making offering of self to God.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes.</p>
+      <p>
+        <em>Prayer, pleading the sacrifice of Christ and making offering of ourselves to God.</em>
+      </p>
+    </block>
+  </text>
+</component>

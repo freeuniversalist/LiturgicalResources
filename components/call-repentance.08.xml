@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-repentance.08">
+  <subject>Call to Repentance</subject>
+  <scripture>Revelation 3:17,20</scripture>
+  <source ref="oeb">Revelation 3:17, 20, Open English Bible, release 2025.6 (US spelling), CC0, verbatim.</source>
+  <original>
+    <p>Revelation 3:17 (OEB 2025.6): You say ‘I am rich and have grown rich, and I want for nothing,’ and you do not know that you are wretched, miserable, poor, blind, naked!</p>
+    <p>Revelation 3:20 (OEB 2025.6): I am standing at the door and knocking! If anyone hears my voice and opens the door, I will go in, and will feast with them, and they will feast with me.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>You say ‘I am rich and have grown rich, and I want for nothing,’ and you do not know that you are wretched, miserable, poor, blind, naked!</p>
+      <p>I am standing at the door and knocking! If anyone hears my voice and opens the door, I will go in, and will feast with them, and they will feast with me.</p>
+    </block>
+  </text>
+</component>

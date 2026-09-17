@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="law.2cor9">
+  <subject>The Law</subject>
+  <title>Reading of the Law</title>
+  <scripture>2 Corinthians 9:7</scripture>
+  <source ref="web">2 Corinthians 9:7 (World English Bible); "each man ... he ... his heart" rendered "each person ... they ... their hearts".</source>
+  <original>
+    <p>2 Corinthians 9:7 (WEB): Let each man give according as he has determined in his heart; not grudgingly, or under compulsion; for God loves a cheerful giver.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Let each person give according as they have determined in their hearts, not grudgingly or under compulsion, for God loves a cheerful giver.</p>
+    </block>
+  </text>
+</component>

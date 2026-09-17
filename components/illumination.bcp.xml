@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="illumination.bcp">
+  <subject>Illumination</subject>
+  <title>Prayer for Illumination</title>
+  <author>Thomas Cranmer in the Book of Common Prayer (1549)</author>
+  <source ref="edward-vi-prayer-books">Cranmer's collect for the Second Sunday in Advent, Book of Common Prayer 1549 (unchanged in 1552), in The First and Second Prayer-Books of King Edward the Sixth (Everyman, 1913), p. 34. Modernised; the 1662 book reads "who hast" and drops "us" from "grant us".</source>
+  <original>
+    <p>Blessed lord, which hast caused all holy Scriptures to bee written for our learnyng; graunte us that we maye in suche wise heare them, read, marke, learne, and inwardly digeste them; that by pacience, and coumfort of thy holy woorde, we may embrace, and euer holde fast the blessed hope of euerlasting life, which thou hast geuen us in our sauiour Jesus Christe.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Blessed Lord, you have caused all Holy Scriptures to be written for our learning — grant us that we may in such a way hear them, read, mark, learn, and inwardly digest them; that by patience and comfort of your holy Word, we may embrace and ever hold fast the blessed hope of everlasting life, which you have given us in our savior Jesus Christ. Amen.</p>
+    </block>
+  </text>
+</component>

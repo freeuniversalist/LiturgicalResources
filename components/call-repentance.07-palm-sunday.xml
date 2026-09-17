@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-repentance.07-palm-sunday">
+  <subject>Call to Repentance</subject>
+  <scripture>Hosea 6:4b-6</scripture>
+  <source ref="oeb">Hosea 6:4b-6 (Open English Bible, release 2025.6, CC0), verbatim.</source>
+  <original>
+    <p>Hosea 6:4-6 (OEB 2025.6): What can I make of you, Ephraim! What can I make of you, Judah! Your love is like a morning cloud, like the dew which early goes away. That is why I have hewn them by the prophets, I have slain them by the words of my mouth. My judgment is like the light that goes forth, for it is love that I delight in and not sacrifice, and knowledge of God and not burnt offerings.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Your love is like a morning cloud,</line>
+        <line indent="4">like the dew which early goes away.</line>
+        <line>That is why I have hewn them by the prophets,</line>
+        <line indent="4">I have slain them by the words of my mouth.</line>
+        <line>My judgment is like the light that goes forth,</line>
+        <line indent="4">for it is love that I delight in and not sacrifice,</line>
+        <line indent="4">and knowledge of God and not burnt offerings.</line>
+      </p>
+    </block>
+  </text>
+</component>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-to-worship.jeremiah29">
+  <subject>Call to Worship</subject>
+  <scripture>Jeremiah 29:11-14</scripture>
+  <source ref="web">Jeremiah 29:11-14a (World English Bible); "Yahweh" rendered "the LORD".</source>
+  <original>
+    <p>Jeremiah 29:11-14 (WEB): For I know the thoughts that I think toward you,” says Yahweh, “thoughts of peace, and not of evil, to give you hope and a future. You shall call on me, and you shall go and pray to me, and I will listen to you. You shall seek me, and find me, when you search for me with all your heart. I will be found by you,” says Yahweh, “and I will turn again your captivity, and I will gather you from all the nations, and from all the places where I have driven you, says Yahweh. I will bring you again to the place from where I caused you to be carried away captive.”</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>“I know the thoughts that I think toward you,” says the LORD, “thoughts of peace, and not of evil, to give you hope and a future. You shall call on me, and you shall go and pray to me, and I will listen to you. You shall seek me and find me, when you search for me with all your heart. I will be found by you,” says the LORD.</p>
+    </block>
+  </text>
+</component>

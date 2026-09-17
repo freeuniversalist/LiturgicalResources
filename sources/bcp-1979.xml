@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="bcp-1979">
+  <name>The Book of Common Prayer (1979)</name>
+  <author>The Episcopal Church</author>
+  <publisher>Church Publishing, New York</publisher>
+  <date>1979</date>
+  <url>https://www.bcponline.org/</url>
+  <note>Quoted for its psalter and canticles. The 1979 book was placed in the public domain by its publishers; the psalter text used here is the encoding at https://github.com/freeuniversalist/1979psalter (sibling repository).</note>
+  <match>\bBCP\W+1979\b|\b1979\W+BCP\b|\bECUSA\b</match>
+</source>

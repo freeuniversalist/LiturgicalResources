@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="illumination.calvin-2">
+  <subject>Illumination</subject>
+  <title>Prayer for Illumination</title>
+  <author>Jean Calvin</author>
+  <source ref="baird-eutaxia">John Calvin's prayer for illumination before the sermon, from the Genevan liturgy, as printed in Baird, Eutaxia (1855), p. 35.</source>
+  <original>
+    <p>Most gracious God, our heavenly Father! in whom alone dwelleth all fulness of light and wisdom: Illuminate our minds, we beseech thee, by thine Holy Spirit, in the true understanding of thy word. Give us grace that we may receive it with reverence and humility unfeigned. May it lead us to put our whole trust in thee alone; and so to serve and honor thee, that we may glorify thy holy name, and edify our neighbors by a good example. And since it hath pleased thee to number us among thy people: O help us to pay thee the love and homage that we owe, as children to our Father, and as servants to our Lord. We ask this for the sake of our Master and Saviour, who hath taught us to pray, saying: Our Father, &amp;c.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Gracious God, our heavenly Father, in you alone is the fullness of light and wisdom. Open our minds by your Holy Spirit so that we may truly understand your word. Give us the grace to receive it with reverence and real humility, so that it leads us to place our whole trust in you, to serve and honour you, to glorify your holy name, and to build up those around us by the example of our lives. And since you have been pleased to count us among your people, help us to give you the love and honour we owe you, as children to a Father and as servants to our Lord. We ask this through our saviour Jesus Christ.</p>
+    </block>
+  </text>
+</component>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.self-examination">
+  <subject>Eucharist</subject>
+  <title>Self-Examination</title>
+  <scripture>Matthew 26:20-22</scripture>
+  <source ref="orchard-1921">W. E. Orchard, The Order of Divine Service (1921), A Simple Observance of the Lord's Supper, p. 116 (Matthew 26:20-22). Lightly modernised.</source>
+  <original>
+    <p>Now when even was come, he was sitting at meat with the twelve disciples; and as they were eating, he said, Verily I say unto you, that one of you shall betray me. And they were exceeding sorrowful, and began to say unto him every one, Is it I, Lord?</p>
+    <p>Self-examination and Confession.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Now when evening had come, he was sitting at the table with the twelve disciples; and as they were eating, he said, Truly I say to you, one of you will betray me. And they were exceedingly sorrowful, and every one began to say to him, Is it I, Lord?</p>
+      <p>
+        <em>Self-examination and confession, in silence.</em>
+      </p>
+    </block>
+  </text>
+</component>

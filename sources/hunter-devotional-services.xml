@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="hunter-devotional-services">
+  <name>Devotional Services for Public Worship</name>
+  <author>John Hunter</author>
+  <publisher>J. M. Dent, London</publisher>
+  <date>1903 (eighth edition)</date>
+  <url>https://archive.org/details/devotionalservic00huntuoft</url>
+  <note>Text of the 1901 revised edition. Public domain (Hunter 1849–1917). An earlier American printing (Boston: D. Lothrop, 1893) is at https://archive.org/details/cu31924031320538</note>
+  <match>\bHunter\b</match>
+</source>

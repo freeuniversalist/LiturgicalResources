@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="law.zach7-9">
+  <subject>The Law</subject>
+  <title>Reading of the Law</title>
+  <scripture>Zechariah 7:9-10</scripture>
+  <source ref="oeb">Zechariah 7:9-10 (Open English Bible, release 2025.6, CC0); the divine name printed "Lord", and "says, execute" set as "says: Execute".</source>
+  <original>
+    <p>Zechariah 7:9-10 (OEB 2025.6): The LORD of hosts says, execute true judgments. Show kindness and mercy to each other. Do not oppress the widow or the orphan, the resident foreigner or the poor. Let none of you devise evil against another in your hearts.</p>
+  </original>
+  <text>
+    <block type="scripture">
+      <p>The Lord of hosts says:</p>
+      <p>Execute true judgments. Show kindness and mercy to each other. Do not oppress the widow or the orphan, the resident foreigner or the poor. Let none of you devise evil against another in your hearts.</p>
+    </block>
+  </text>
+</component>

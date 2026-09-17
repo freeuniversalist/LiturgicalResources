@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="law.deut6-4">
+  <subject>The Law</subject>
+  <title>Reading of the Law</title>
+  <scripture>Deuteronomy 6:4–9</scripture>
+  <source ref="web">Deuteronomy 6:4-9 (World English Bible); "Yahweh" rendered "the Lord", "today" rendered "this day", "frontlets" rendered "symbols".</source>
+  <original>
+    <p>Deuteronomy 6:4-9 (WEB): Hear, Israel: Yahweh is our God. Yahweh is one. You shall love Yahweh your God with all your heart, with all your soul, and with all your might. These words, which I command you today, shall be on your heart; and you shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up. You shall bind them for a sign on your hand, and they shall be for frontlets between your eyes. You shall write them on the door posts of your house, and on your gates.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Hear, Israel:</line>
+        <line indent="3">The Lord is our God,</line>
+        <line indent="3">the Lord is one,</line>
+        <line>and you shall love the Lord your God</line>
+        <line indent="4">with all your heart,</line>
+        <line indent="4">and with all your soul,</line>
+        <line indent="4">and with all your might.</line>
+      </p>
+      <p>
+        <line>These words, which I command you this day, shall be on your heart;</line>
+        <line indent="4">and you shall teach them diligently to your children,</line>
+        <line indent="4">and shall talk of them when you sit in your house,</line>
+        <line indent="4">and when you walk by the way,</line>
+        <line indent="4">and when you lie down,</line>
+        <line indent="4">and when you rise up.</line>
+      </p>
+      <p>
+        <line>You shall bind them for a sign on your hand,</line>
+        <line indent="4">and they shall be for symbols between your eyes.</line>
+        <line>You shall write them on the door-posts of your house,</line>
+        <line indent="4">and on your gates.</line>
+      </p>
+    </block>
+  </text>
+</component>

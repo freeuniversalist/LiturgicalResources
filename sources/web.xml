@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="web">
+  <name>World English Bible</name>
+  <author>Michael Paul Johnson (editor), for eBible.org</author>
+  <publisher>eBible.org</publisher>
+  <date>2000–2020</date>
+  <url>https://worldenglish.bible/</url>
+  <note>Modern-English revision of the American Standard Version (1901), released into the public domain. Renders the divine name as "Yahweh"; the components render it "the Lord". Verse text checked against https://bible-api.com/ (translation=web).</note>
+  <match>\bWEB\b|World English Bible</match>
+</source>

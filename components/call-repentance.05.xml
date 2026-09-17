@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-repentance.05">
+  <subject>Call to Repentance</subject>
+  <scripture>Luke 15:20-24</scripture>
+  <source ref="oeb">Luke 15:20-24 (Open English Bible, release 2025.6, CC0), verbatim; the closing "So they began making merry" omitted.</source>
+  <original>
+    <p>Luke 15:20-24 (OEB 2025.6): And he got up and went to his father. But, while he was still a long way off, his father saw him and was deeply moved; he ran and threw his arms around his neck and kissed him. ‘Father,’ the son said, ‘I sinned against heaven and against you; I am no longer fit to be called your son; make me one of your hired servants.’ But the father turned to his servants and said ‘Be quick and fetch a robe – the very best – and put it on him; give him a ring for his finger and sandals for his feet; and bring the fattened calf and kill it, and let us eat and make merry; for here is my son who was dead, and is alive again, was lost, and is found.’ So they began making merry.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>And he got up and went to his father. But, while he was still a long way off, his father saw him and was deeply moved; he ran and threw his arms around his neck and kissed him. ‘Father,’ the son said, ‘I sinned against heaven and against you; I am no longer fit to be called your son; make me one of your hired servants.’</p>
+      <p>But the father turned to his servants and said ‘Be quick and fetch a robe – the very best – and put it on him; give him a ring for his finger and sandals for his feet; and bring the fattened calf and kill it, and let us eat and make merry; for here is my son who was dead, and is alive again, was lost, and is found.’</p>
+    </block>
+  </text>
+</component>

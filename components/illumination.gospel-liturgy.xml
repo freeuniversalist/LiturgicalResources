@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="illumination.gospel-liturgy">
+  <subject>Illumination</subject>
+  <title>Prayer for Illumination</title>
+  <author>Universalist "Gospel Liturgy"</author>
+  <source ref="gospel-liturgy">The Gospel Liturgy (1857), Order of Public Worship, Fourth: the prayer before the reading of the Scriptures, p. 36.</source>
+  <original>
+    <p>Father of All, who through Thy holy word hast granted unto us the light of life: May the Scriptures be ever so opened to our thoughts, that our hearts may burn within us; and when it is toward evening, and the day of time is far spent, may Christ continue to abide with us by faith, that the night may be radiant with the promise of a morning without clouds.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Father of all, through your holy word you granted us the light of life. May the Scriptures be opened to our thoughts so our hearts may burn within us, and when it is towards evening and the time of day is far spent, may Christ continue to abide with us by faith, so that the night may be radiant with the promise of a morning without clouds.</p>
+    </block>
+  </text>
+</component>

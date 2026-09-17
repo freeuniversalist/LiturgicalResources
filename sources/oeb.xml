@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="oeb">
+  <name>Open English Bible</name>
+  <author>Russell Allen (editor)</author>
+  <publisher>openenglishbible.org</publisher>
+  <date>2025.6</date>
+  <url>https://openenglishbible.org/</url>
+  <note>New Testament, Psalms and some Old Testament books, revised from the Twentieth Century New Testament and other public-domain bases; CC0. Release 2025.6, US spelling unless noted.</note>
+  <match>\bOEB\b|Open English Bible</match>
+</source>

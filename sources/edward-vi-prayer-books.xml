@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="edward-vi-prayer-books">
+  <name>The First and Second Prayer-Books of King Edward the Sixth</name>
+  <author>Church of England; introduction by E. C. S. Gibson</author>
+  <publisher>J. M. Dent, London (Everyman's Library)</publisher>
+  <date>1913</date>
+  <url>https://archive.org/details/firstsecondpraye00churuoft</url>
+  <note>Prints the 1549 book in full and the 1552 book where it differs. Public domain. The 1552 Morning Prayer is also transcribed at http://justus.anglican.org/resources/bcp/1552/MP_1552.htm</note>
+  <match>\b1549\b|\b1552\b</match>
+</source>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="illumination.origen">
+  <subject>Illumination</subject>
+  <title>Prayer for Illumination</title>
+  <author>Origen of Alexandria</author>
+  <source ref="ante-nicene-fathers">Origen, Against Celsus, book VII, chapter 1, translated by Frederick Crombie, in Ante-Nicene Fathers, vol. 4 (1885). https://www.newadvent.org/fathers/04167.htm</source>
+  <original>
+    <p>And now, while we enter upon the seventh book, we call upon God through Jesus Christ, whom Celsus accuses, that He who is the truth of God would shed light into our hearts and scatter the darkness of error, in accordance with that saying of the prophet which we now offer as our prayer, Destroy them by Your truth. For it is evidently the words and reasonings opposed to the truth that God destroys by His truth.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>We call upon God through Jesus Christ, that he who is the truth of God would shed light into our hearts and scatter the darkness of error; and we offer as our prayer the words of the prophet: "Destroy error by your truth." Amen.</p>
+    </block>
+  </text>
+</component>

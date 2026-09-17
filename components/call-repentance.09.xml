@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-repentance.09">
+  <subject>Call to Repentance</subject>
+  <scripture>Colossians 3:1–2</scripture>
+  <source ref="web">Colossians 3:1-2 (World English Bible), verbatim.</source>
+  <original>
+    <p>Colossians 3:1-2 (WEB): If then you were raised together with Christ, seek the things that are above, where Christ is, seated on the right hand of God. Set your mind on the things that are above, not on the things that are on the earth.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>If then you were raised together with Christ, seek the things that are above, where Christ is, seated on the right hand of God. Set your mind on the things that are above, not on the things that are on the earth.</p>
+    </block>
+  </text>
+</component>

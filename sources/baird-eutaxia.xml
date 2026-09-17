@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="baird-eutaxia">
+  <name>Eutaxia, or the Presbyterian Liturgies: Historical Sketches</name>
+  <author>Charles W. Baird</author>
+  <publisher>M. W. Dodd, New York</publisher>
+  <date>1855</date>
+  <url>https://archive.org/details/eutaxiaorpresbyt00bair</url>
+  <note>Public domain (published 1855). Prints Calvin's Genevan forms of
+  prayer in English translation.</note>
+  <match>\bBaird\b|\bEutaxia\b</match>
+</source>

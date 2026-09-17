@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="law.phil2">
+  <subject>The Law</subject>
+  <title>Reading of the Law</title>
+  <scripture>Philippians 2:3-4</scripture>
+  <source ref="oeb">Philippians 2:3-4 (Open English Bible, release 2025.6, CC0), verbatim.</source>
+  <original>
+    <p>Philippians 2:3-4 (OEB 2025.6): Nothing should be done out of selfish ambition or vain conceit. Rather, in humility lift others up above yourselves, considering not only your own interests but also the interests of others.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Nothing should be done out of selfish ambition or vain conceit. Rather, in humility lift others up above yourselves, considering not only your own interests but also the interests of others.</p>
+    </block>
+  </text>
+</component>

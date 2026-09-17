@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="adoration.hymns-spirit">
+  <subject>Adoration</subject>
+  <author>Union Prayerbook (1918), after the Aleinu</author>
+  <source ref="union-prayerbook-1918">The Adoration (after the Aleinu), Evening Service for the Sabbath, The Union Prayerbook for Jewish Worship, Part I (1918), p. 58. Modernised. Hymns of the Spirit (1937), First Order of Service, prints an adaptation of the same text, which an earlier version of this component followed.</source>
+  <original>
+    <p>Let us adore the ever-living God, and render praise unto Him who spread out the heavens and established the earth, whose glory is revealed in the heavens above and whose greatness is manifest throughout the world. He is our God; there is none else. We bow the head and bend the knee and magnify the King of kings, the Holy One, praised be He.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Let us adore the ever-living God, and render praise to the One who spread out the heavens and established the earth, whose glory is revealed in the heavens above and whose greatness is manifest throughout the world. He is our God; there is no other. We bow the head and bend the knee and magnify the King of kings, the Holy One, praised be he.</p>
+    </block>
+  </text>
+</component>

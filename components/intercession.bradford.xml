@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="intercession.bradford">
+  <subject>Intercession</subject>
+  <title>Prayer of Intercession</title>
+  <author>John Bradford</author>
+  <source ref="bradford-writings">John Bradford, "A Thanksgiving, being a godly prayer to be read at all times", closing paragraph, in The Writings of John Bradford, vol. 1 (Parker Society, 1848), p. 247.</source>
+  <original>
+    <p>Let thy mighty hand and outstretched arm, O Lord, be still our defence, thy mercy and loving-kindness in Jesu Christ thy dear Son our salvation, thy true and holy word our instruction, thy grace and holy Spirit our comfort and consolation unto the end and in the end. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Let your mighty hand and outstretched arm, Lord,</line>
+        <line indent="4">be still our defense;</line>
+        <line>your mercy and loving kindness in Jesus Christ your dear Son,</line>
+        <line indent="4">our salvation;</line>
+        <line>your true and holy Word,</line>
+        <line indent="4">our instruction;</line>
+        <line>your grace and Holy Spirit,</line>
+        <line indent="4">our comfort and consolation</line>
+        <line indent="4">unto the end, and in the end.</line>
+      </p>
+      <p>Amen</p>
+    </block>
+  </text>
+</component>

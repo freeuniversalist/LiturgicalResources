@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="intercession.baxter">
+  <subject>Intercession</subject>
+  <title>Prayer of Intercession</title>
+  <author>Richard Baxter</author>
+  <source ref="baxter-works">Richard Baxter, A Short Prayer for Children and Servants, appended to A Call to the Unconverted, in The Practical Works of Richard Baxter (1830), vol. 7, pp. 465–466. Modernised and shortened.</source>
+  <original>
+    <p>O pardon all the sins of my corrupted heart and life; and as a reconciled Father, take me to be thy child; and give me thy renewing Spirit, to be in me a principle of holy life, and light, and love, and thy seal and witness, that I am thine. Let him quicken my dead and hardened heart; let him enlighten my dark, unbelieving mind by clearer knowledge and firm belief; let him turn my will to the ready obedience of thy holy will; let him reveal to my soul the wonders of thy love in Christ, and fill it with love to thee and my Redeemer, and to all thy holy word and works, till all my sinful carnal love be quenched in me, and my sinful pleasures turned into a sweet delight in God.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>As a reconciled Father, take me to be your child; and give me your renewing Spirit, to be in me a principle of holy life, and light, and love, and your seal and witness that I am yours. Let him quicken my dead and hardened heart. Let him enlighten my dark unbelieving mind, by clearer knowledge and firm belief. Let him turn my will to the ready obedience of your holy will. Let him reveal to my soul the wonders of your love in Christ, and fill it with love to you and my Redeemer, and to all your holy Word and works. Amen.</p>
+    </block>
+  </text>
+</component>

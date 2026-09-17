@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="affirmation.winchester">
+  <subject>Affirmation of Faith</subject>
+  <author>Winchester Profession (1803)</author>
+  <source ref="eddy-universalism">The Profession of Belief adopted by the General Convention of Universalists at Winchester, New Hampshire, September 1803 (ratified 23 September), as printed from the Convention minutes in Eddy, Universalism in America, vol. 2 (1886), pp. 48–49 (Article the Third as amended by the Convention).</source>
+  <original>
+    <p>We believe that the Holy Scriptures of the Old and New Testaments contain a revelation of the character of God, and of the duty, interest and final destination of mankind.</p>
+    <p>We believe that there is one God, whose nature is Love, revealed in one Lord Jesus Christ, by one Holy Spirit of Grace, who will finally restore the whole family of mankind to holiness and happiness.</p>
+    <p>We believe that holiness and true happiness are inseparably connected, and that believers ought to be careful to maintain order and practice good works, for these things are good and profitable unto men.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>We believe that the Holy Scriptures of the Old and New Testament contain a revelation of the character of God, and of the duty, interest and final destination of humankind.</p>
+      <p>We believe that there is one God, whose nature is Love, revealed in one Lord Jesus Christ, by one Holy Spirit of Grace, who will finally restore the whole human family to holiness and happiness.</p>
+      <p>We believe that holiness and true happiness are inseparably connected, and that believers ought to be careful to maintain order and practice good works; for these things are good and profitable unto us all.</p>
+      <rubric>Adapted with inclusive language from the original 1803 text</rubric>
+    </block>
+  </text>
+</component>

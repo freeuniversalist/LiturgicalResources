@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-to-worship.rev19">
+  <subject>Call to Worship</subject>
+  <scripture>Revelation 19:6–7</scripture>
+  <source ref="web">Revelation 19:6-7a (World English Bible), verbatim.</source>
+  <original>
+    <p>Revelation 19:6-7 (WEB): I heard something like the voice of a great multitude, and like the voice of many waters, and like the voice of mighty thunders, saying, “Hallelujah! For the Lord our God, the Almighty, reigns! Let us rejoice and be exceedingly glad, and let us give the glory to him. For the marriage of the Lamb has come, and his wife has made herself ready.”</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>I heard something like the voice of a great multitude, and like the voice of many waters, and like the voice of mighty thunders, saying, “Hallelujah! For the Lord our God, the Almighty, reigns! Let us rejoice and be exceedingly glad, and let us give the glory to him.”</p>
+    </block>
+  </text>
+</component>

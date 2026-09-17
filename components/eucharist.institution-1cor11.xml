@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.institution-1cor11">
+  <subject>Eucharist</subject>
+  <title>The Institution</title>
+  <scripture>1 Corinthians 11:23-26</scripture>
+  <source ref="web">1 Corinthians 11:23-26 (World English Bible), verbatim; verse 26 is said by all. Every spoken word is scripture.</source>
+  <original>
+    <p>1 Corinthians 11:23-26 (WEB): For I received from the Lord that which also I delivered to you, that the Lord Jesus on the night in which he was betrayed took bread. When he had given thanks, he broke it, and said, “Take, eat. This is my body, which is broken for you. Do this in memory of me.” In the same way he also took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink, in memory of me.” For as often as you eat this bread and drink this cup, you proclaim the Lord’s death until he comes.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>For I received from the Lord that which also I delivered to you, that the Lord Jesus on the night in which he was betrayed took bread.</p>
+      <rubric>Here the bread is taken up</rubric>
+      <p>
+        <em>Here the Holy Spirit is silently invoked.</em>
+      </p>
+      <p>When he had given thanks, he broke it, and said, “Take, eat. This is my body, which is broken for you. Do this in memory of me.”</p>
+      <p>
+        <em>Adoration.</em>
+      </p>
+      <rubric>Here the cup is taken up</rubric>
+      <p>In the same way he also took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink, in memory of me.”</p>
+      <p>
+        <em>Adoration.</em>
+      </p>
+      <response>
+        <line>For as often as you eat this bread and drink this cup,</line>
+        <line>you proclaim the Lord’s death until he comes.</line>
+      </response>
+    </block>
+  </text>
+</component>

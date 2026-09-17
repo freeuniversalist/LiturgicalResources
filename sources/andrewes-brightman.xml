@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="andrewes-brightman">
+  <name>The Preces Privatae of Lancelot Andrewes, Bishop of Winchester</name>
+  <author>Lancelot Andrewes; translated by F. E. Brightman</author>
+  <publisher>Methuen, London</publisher>
+  <date>1903</date>
+  <url>https://archive.org/details/theprecesprivata00andruoft</url>
+  <note>Public domain (published 1903; Brightman 1856–1932).</note>
+  <match>\bAndrewes\b|Preces Privatae</match>
+</source>

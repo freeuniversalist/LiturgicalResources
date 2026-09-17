@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.invitation-isaiah55">
+  <subject>Eucharist</subject>
+  <title>Invitation to the Table</title>
+  <scripture>Isaiah 55, Matthew 11, and Revelation 22</scripture>
+  <source ref="web">Isaiah 55:1-3a (the opening interjection omitted), Matthew 11:28-30 and, as the response, Revelation 22:17 (World English Bible), verbatim. Every spoken word is scripture.</source>
+  <original>
+    <p>Isaiah 55:1-3 (WEB): “Hey! Come, everyone who thirsts, to the waters! Come, he who has no money, buy, and eat! Yes, come, buy wine and milk without money and without price. Why do you spend money for that which is not bread, and your labor for that which doesn’t satisfy? Listen diligently to me, and eat that which is good, and let your soul delight itself in richness. Turn your ear, and come to me. Hear, and your soul will live: and I will make an everlasting covenant with you, even the sure mercies of David.</p>
+    <p>Matthew 11:28-30 (WEB): “Come to me, all you who labor and are heavily burdened, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and humble in heart; and you will find rest for your souls. For my yoke is easy, and my burden is light.”</p>
+    <p>Revelation 22:17 (WEB): The Spirit and the bride say, “Come!” He who hears, let him say, “Come!” He who is thirsty, let him come. He who desires, let him take the water of life freely.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Come, everyone who thirsts, to the waters!</line>
+        <line>Come, he who has no money, buy, and eat!</line>
+        <line>Yes, come, buy wine and milk without money and without price.</line>
+      </p>
+      <p>
+        <line>Why do you spend money for that which is not bread,</line>
+        <line>and your labor for that which doesn’t satisfy?</line>
+        <line>Listen diligently to me, and eat that which is good,</line>
+        <line>and let your soul delight itself in richness.</line>
+        <line>Turn your ear, and come to me.</line>
+        <line>Hear, and your soul will live.</line>
+      </p>
+      <p>Come to me, all you who labor and are heavily burdened, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and humble in heart; and you will find rest for your souls. For my yoke is easy, and my burden is light.</p>
+      <response>
+        <line>The Spirit and the bride say, “Come!”</line>
+        <line>He who hears, let him say, “Come!”</line>
+        <line>He who is thirsty, let him come.</line>
+        <line>He who desires, let him take the water of life freely.</line>
+      </response>
+    </block>
+  </text>
+</component>

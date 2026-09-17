@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="illumination.mattheson">
+  <subject>Illumination</subject>
+  <title>Prayer for Illumination</title>
+  <author>George Matheson</author>
+  <source ref="matheson-day-unto-day">George Matheson, Day unto Day (1908), the prayer for May 19, p. 76. Modernised; "height of aspiration that is compassed by" rendered "heights of aspiration that is reached by".</source>
+  <original>
+    <p>Thou divine Spirit, illumine to me the words of the Lord. Show me the wealth of glory that lies beneath the old familiar stories. Teach me the depths of meaning hidden in the songs of Zion. Raise me to the height of aspiration that is compassed by the wings of the prophet. Lift me to the summit of faith that is trod by the feet of the apostle. Open Thou mine eyes, that I may behold wondrous things out of Thy law.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Divine Spirit,</line>
+        <line>illumine to me the words of the Lord.</line>
+      </p>
+      <p>
+        <line>Show me the wealth of glory</line>
+        <line>that lies beneath the old familiar stories.</line>
+      </p>
+      <p>
+        <line>Teach me the depths of meaning</line>
+        <line>hidden in the songs of Zion.</line>
+      </p>
+      <p>
+        <line>Raise me to the heights of aspiration</line>
+        <line>that is reached by the wings of the prophet.</line>
+      </p>
+      <p>
+        <line>Lift me to the summit of faith</line>
+        <line>that is trod by the feet of the apostle.</line>
+      </p>
+      <p>
+        <line>Open my eyes,</line>
+        <line>that I may behold wondrous things out of your law.</line>
+      </p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

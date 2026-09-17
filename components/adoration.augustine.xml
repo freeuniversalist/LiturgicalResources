@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="adoration.augustine">
+  <subject>Adoration</subject>
+  <author>Augustine of Hippo</author>
+  <source ref="npnf-1">Augustine, Confessions, book I, chapter 1, translated by J. G. Pilkington, in Nicene and Post-Nicene Fathers, first series, vol. 1 (1886). https://ccel.org/ccel/schaff/npnf101.vi.I.I.html Modernised and set as lines; "man" rendered "we".</source>
+  <original>
+    <p>Great art Thou, O Lord, and greatly to be praised; great is Thy power, and of Thy wisdom there is no end. And man, being a part of Thy creation, desires to praise Thee, — man, who bears about with him his mortality, the witness of his sin, even the witness that Thou “resistest the proud,” — yet man, this part of Thy creation, desires to praise Thee. Thou movest us to delight in praising Thee; for Thou hast formed us for Thyself, and our hearts are restless till they find rest in Thee.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Great are you, Lord,</line>
+        <line indent="4">and greatly to be praised;</line>
+        <line>great is your power,</line>
+        <line indent="4">and of your wisdom there is no end.</line>
+      </p>
+      <p>
+        <line>We, being a part of your creation,</line>
+        <line indent="4">desire to praise you.</line>
+      </p>
+      <p>
+        <line>We, who bear about with us our mortality,</line>
+        <line indent="3">the witness of our sin,</line>
+        <line indent="3">the witness that you resist the proud,</line>
+        <line>yet we, part of your creation,</line>
+        <line indent="3">desire to praise you.</line>
+      </p>
+      <p>
+        <line>You move us to delight in praising you,</line>
+        <line indent="3">for you have formed us for yourself,</line>
+        <line indent="3">and our hearts are restless until they find rest in you.</line>
+      </p>
+    </block>
+  </text>
+</component>

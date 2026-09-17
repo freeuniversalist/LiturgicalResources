@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="wright-patrick-1887">
+  <name>The Writings of St. Patrick, the Apostle of Ireland</name>
+  <author>Saint Patrick; translated by Charles H. H. Wright</author>
+  <publisher>James Nisbet, London (Religious Tract Society)</publisher>
+  <date>1887</date>
+  <url>https://archive.org/details/writingsofstpatr0000patr</url>
+  <note>Public domain. Includes the Lorica, "Saint Patrick's Hymn".</note>
+  <match>\bWright\b</match>
+</source>

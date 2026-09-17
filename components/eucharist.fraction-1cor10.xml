@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.fraction-1cor10">
+  <subject>Eucharist</subject>
+  <title>The Breaking of the Bread</title>
+  <scripture>1 Corinthians 10:16-17</scripture>
+  <source ref="web">1 Corinthians 10:16-17 (World English Bible; the two questions of verse 16 reordered to follow the action) and Luke 14:17b (World English Bible), verbatim. Every spoken word is scripture.</source>
+  <original>
+    <p>1 Corinthians 10:16-17 (WEB): The cup of blessing which we bless, isn’t it a sharing of the blood of Christ? The bread which we break, isn’t it a sharing of the body of Christ? Because there is one loaf of bread, we, who are many, are one body; for we all partake of the one loaf of bread.</p>
+    <p>Luke 14:17 (WEB): He sent out his servant at supper time to tell those who were invited, ‘Come, for everything is ready now.’</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <rubric>Here the bread is broken</rubric>
+      <p>The bread which we break, isn’t it a sharing of the body of Christ?</p>
+      <rubric>Here the cup is raised</rubric>
+      <p>The cup of blessing which we bless, isn’t it a sharing of the blood of Christ?</p>
+      <response>
+        <line>Because there is one loaf of bread, we, who are many, are one body;</line>
+        <line>for we all partake of the one loaf of bread.</line>
+      </response>
+      <p>Come, for everything is ready now.</p>
+    </block>
+  </text>
+</component>

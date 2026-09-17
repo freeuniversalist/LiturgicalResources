@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="intercession.bcp2">
+  <subject>Intercession</subject>
+  <title>Prayer of Intercession</title>
+  <author>Book of Common Prayer (1549)</author>
+  <source ref="edward-vi-prayer-books">Collect for the Fourth Sunday after Trinity, Book of Common Prayer 1549 (unchanged in 1552 and 1662), in The First and Second Prayer-Books of King Edward the Sixth (Everyman, 1913), p. 143. Modernised.</source>
+  <original>
+    <p>God the protector of all that trust in thee, without whom nothyng is strong, nothing is holy; increase and multiply upon us thy mercye; that thou being our ruler and guyde, we may so passe through thinges temporall, that we fynally lose not the thinges eternall: Graunt this heauenly father, for Jesu Christes sake our Lorde.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>God, the protector of all those who trust in you, without whom nothing is strong, nothing is holy — increase and multiply on us your mercy; that you being our ruler and guide, we may so pass through things temporal, that we finally lose not the things eternal. Grant this, heavenly Father, for the sake of Jesus Christ our Lord. Amen</p>
+    </block>
+  </text>
+</component>

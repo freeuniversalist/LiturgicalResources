@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="confession.hunter">
+  <subject>Confession</subject>
+  <author>John Hunter</author>
+  <source ref="hunter-devotional-services">Abridged from John Hunter, Devotional Services for Public Worship (1903), Litanies and Prayers III, "A Service of Confession", pp. 115–118, a responsive litany answered "Have mercy upon us, O God". The abridgement follows Noyes, Prayers for Services (1934). Modernised.</source>
+  <original>
+    <p>Almighty God, Spirit of Purity and Grace, whose salvation is never very far from the contrite heart, listen to our confessions of sin, and have mercy upon us.</p>
+    <p>For all the evil past of our lives; for our many refusals of Thy call; for our indolence, vanity, and unfaithfulness: Have mercy upon us, O Lord.</p>
+    <p>For the sins of care and passion which have estranged our hearts from goodness and dimmed our vision of heavenly things: Have mercy upon us, O God.</p>
+    <p>For the sins and faults of youth which led us early astray from Thy ways and brought upon us many troubles and sorrows: Have mercy upon us, O God.</p>
+    <p>For all our hardness of heart and impenitence of spirit; for our pride, self-sufficiency, and wilful iniquity: Have mercy upon us, O God.</p>
+    <p>For all our forgotten vows; for the better purposes which we have suffered to grow weak; for the good resolutions we have not kept; for the excuses we have fashioned to hide from ourselves our unfaithful lives: Have mercy upon us, O God.</p>
+    <p>For the sorrows that have brought no repentance; for all the wholesome teachings of life which have failed to turn our feet into the true and living way: Have mercy upon us, O God.</p>
+    <p>For the secret faults and presumptuous sins which have remained in our lives unrebuked and tolerated, and for all our omissions to deal truly with ourselves: Have mercy upon us, O God.</p>
+    <p>For the words of unjust anger and bitterness which have escaped our lips; for the strifes and separations which we have inflamed and aided, and for all our sinful neglect to produce peace and good-will among men: Have mercy upon us, O God.</p>
+    <p>For our fretful sufferance of wrong; for the vindictive passions we have cherished; for our intolerance, injustice, and uncharitableness; for our readiness to blame and our want of thoughtfulness, patience, kindness, and sympathy in our social relations: Have mercy upon us, O God.</p>
+    <p>For all the goodness of life which we have received thanklessly; for the strength which we have wasted; for the gifts we have not cultivated; for the opportunities which we have neglected; for all the beauty of this fair world and the love of human hearts which have passed before us and which in our thoughtlessness and care and passion we have not appreciated: Have mercy upon us, O God.</p>
+    <p>For the unworthy doubts of Thee which have clouded our path; for the times when we have forgotten our duties and lost our faith; for the hours when we have yielded to temptation and plucked of the fruit of the forbidden tree: Have mercy upon us, O God.</p>
+    <p>For our selfish comfort amid the wrongs, oppressions, and sorrows of life; for our undue and exclusive regard to our own interests; for our lack of brotherhood and neglect of the service of humanity: Have mercy upon us, O God.</p>
+    <p>For the counsels of Thy Word which have spoken to us vainly; for the grace and truth of Thy beloved Son which we have slighted; for the pleadings of Thy Spirit to which we have not hearkened; for the example and speech of the true and good which have failed to make us worthier children of Thine; for all the monitions of time and the hereafter which have not made us more serious, earnest, gentle, pure, and rich in faith and charity: Have mercy upon us, O God.</p>
+    <p>For all our sins remembered and forgotten, for the sins we are conscious of, and the sins we are not conscious of because of our sinfulness: Have mercy upon us, O God.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Almighty God, Spirit of purity and grace, whose salvation is never far from the contrite heart, listen to our confessions of sin, and have mercy upon us.</p>
+      <p>
+        <line>For our many refusals of your call;</line>
+        <line>for all our forgotten vows;</line>
+        <line>for the better purposes which we have suffered to grow weak;</line>
+        <line>for the excuses we have fashioned to hide from ourselves our unfaithful lives;</line>
+        <line>for the vindictive passions we have cherished;</line>
+        <line>for our readiness to blame, and our want of thoughtfulness, patience, kindness, and sympathy;</line>
+        <line>for all the goodness of life which we have received thanklessly;</line>
+        <line>for the strength which we have wasted;</line>
+        <line>for the opportunities which we have neglected;</line>
+        <line>for all the beauty of this fair world and the love of human hearts which have passed before us and which in our thoughtlessness and care and passion we have not appreciated;</line>
+        <line>for our selfish comfort amid the wrongs, oppressions, and sorrows of life;</line>
+        <line>for the counsels of your Word which have spoken to us vainly;</line>
+        <line>for the grace and truth of your beloved Son which we have slighted;</line>
+        <line>for the pleadings of your Spirit to which we have not listened;</line>
+      </p>
+      <p>have mercy upon us, O God.</p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

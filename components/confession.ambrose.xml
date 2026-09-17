@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="confession.ambrose">
+  <subject>Confession</subject>
+  <author>Ambrose of Milan</author>
+  <source ref="tileston">Attributed to Ambrose of Milan, in Tileston, Prayers Ancient and Modern (1928 edition), October 13, p. 287. The same English is reprinted in Prayers of the Early Church, ed. J. Manning Potts (1953). The translator and the Latin source are not identified. Modernised.</source>
+  <original>
+    <p>O Lord, who hast mercy upon all, take away from me my sins, and mercifully kindle in me the fire of Thy Holy Spirit. Take away from me the heart of stone, and give me a heart of flesh, a heart to love and adore Thee, a heart to delight in Thee, to follow and to enjoy Thee, for Christ’s sake — Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>O Lord, you have mercy upon all — take away from me my sins, and mercifully kindle in me the fire of your Holy Spirit. Take away from me the heart of stone, and give me a heart of flesh, a heart to love and adore you, a heart to delight in you, to follow and to enjoy you, for Christ’s sake. Amen.</p>
+    </block>
+  </text>
+</component>

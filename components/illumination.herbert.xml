@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="illumination.herbert">
+  <subject>Illumination</subject>
+  <title>Prayer for Illumination</title>
+  <author>George Herbert</author>
+  <source ref="herbert-grosart">George Herbert, A Priest to the Temple (1652), The Author's Prayer before Sermon, in The Complete Works in Verse and Prose, ed. Grosart (1874), vol. 3, p. 218. Modernised. Herbert reads "from the heart to the life and conversation"; an earlier version of this component read "lip".</source>
+  <original>
+    <p>Lord Jesu, teach Thou me, that I may teach them; sanctifie and inable all my powers, that in their full strength they may deliver Thy message reverently, readily, faithfully, and fruitfully. O, make Thy word a swift word, passing from the ear to the heart, from the heart to the life and conversation; that as the rain returns not empty, so neither may Thy word, but accomplish that for which it is given.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>O, make your Word a swift Word,</line>
+        <line>passing from the ear to the heart,</line>
+        <line>from the heart to the life and conversation;</line>
+        <line>that, as the rain returns not empty,</line>
+        <line>so neither may your Word,</line>
+        <line>but accomplish that for which it is given. Amen.</line>
+      </p>
+    </block>
+  </text>
+</component>

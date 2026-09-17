@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="lords-prayer.lords-prayer">
+  <subject>The Lord's Prayer</subject>
+  <title>Lord's Prayer</title>
+  <source ref="bcp-1892-american">The Lord's Prayer in its traditional English form (Book of Common Prayer, 1662; American Standard Book of 1892), with this community's alternatives "Mother" and "Creator" for "Father" and "sins" for "trespasses"; the doxology omitted.</source>
+  <original>
+    <p>Our Father, who art in heaven, Hallowed be thy Name. Thy kingdom come. Thy will be done on earth, As it is in heaven. Give us this day our daily bread. And forgive us our trespasses, As we forgive those who trespass against us. And lead us not into temptation; But deliver us from evil. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Our <option>Father / Mother / Creator</option> in heaven,</line>
+        <line>Hallowed be your name.</line>
+        <line>Your kingdom come,</line>
+        <line>Your will be done on earth</line>
+        <line>as it is in heaven.</line>
+        <line>Give us this day our daily bread,</line>
+        <line>and forgive us our <option>trespasses / sins</option>
+        </line>
+        <line>as we forgive those who <option>trespass / sin</option> against us.</line>
+        <line>And lead us not into temptation,</line>
+        <line>but deliver us from evil.</line>
+        <line>Amen.</line>
+      </p>
+    </block>
+  </text>
+</component>

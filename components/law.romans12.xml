@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="law.romans12">
+  <subject>The Law</subject>
+  <title>Reading of the Law</title>
+  <scripture>Romans 12:9-21</scripture>
+  <source ref="oeb">Romans 12:9-21, Open English Bible, release 2025.6 (US spelling), CC0, verbatim.</source>
+  <original>
+    <p>Romans 12:9-21 (OEB 2025.6): Let your love be sincere. Hate the wrong; cling to the right. In the love of the community of the Lord’s followers, be affectionate to one another; in showing respect, set an example of deference to one another; never flagging in zeal; fervent in spirit; serving the Master; rejoicing in your hope; steadfast under persecution; persevering in prayer; relieving the wants of Christ’s people; devoted to hospitality. Bless your persecutors – bless and never curse. Rejoice with those who are rejoicing, and weep with those who are weeping. Let the same spirit of sympathy animate you all, not a spirit of pride; enjoy the company of ordinary people. Do not think too highly of yourselves. Never return injury for injury. Aim at doing what everyone will recognize as honorable. If it is possible, as far as rests with you, live peaceably with everyone. Never avenge yourselves, dear friends, but make way for the wrath of God; for scripture declares – ‘“It is for me to avenge, I will requite,” says the Lord.’ Rather – ‘If your enemy is hungry, feed him; if he is thirsty, give him to drink. By doing this you will heap coals of fire on his head.’ Never be conquered by evil, but conquer evil with good.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Let your love be sincere. Hate the wrong; cling to the right.  In the love of the community of the Lord’s followers, be affectionate to one another; in showing respect, set an example of deference to one another;  never flagging in zeal; fervent in spirit; serving the Master; rejoicing in your hope; steadfast under persecution; persevering in prayer; relieving the wants of Christ’s people; devoted to hospitality.</p>
+      <p>Bless your persecutors – bless and never curse.  Rejoice with those who are rejoicing, and weep with those who are weeping. Let the same spirit of sympathy animate you all, not a spirit of pride; enjoy the company of ordinary people. Do not think too highly of yourselves. Never return injury for injury. Aim at doing what everyone will recognize as honorable. If it is possible, as far as rests with you, live peaceably with everyone.</p>
+      <p>Never avenge yourselves, dear friends, but make way for the wrath of God; for scripture declares – ‘“It is for me to avenge, I will requite,” says the Lord.’ Rather – ‘If your enemy is hungry, feed him; if he is thirsty, give him to drink. By doing this you will heap coals of fire on his head.’</p>
+      <p>Never be conquered by evil, but conquer evil with good.</p>
+    </block>
+  </text>
+</component>

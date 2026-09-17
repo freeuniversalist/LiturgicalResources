@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="illumination.augustine">
+  <subject>Illumination</subject>
+  <title>Prayer for Illumination</title>
+  <author>Augustine</author>
+  <source ref="npnf-1">Augustine, Confessions, book XI, chapter 2, translated by J. G. Pilkington, in Nicene and Post-Nicene Fathers, first series, vol. 1 (1886), p. 164. https://ccel.org/ccel/schaff/npnf101.vi.XI.II.html Modernised.</source>
+  <original>
+    <p>Let Thy Scriptures be my chaste delights. Neither let me be deceived in them, nor deceive out of them. Lord, hear and pity, O Lord my God, light of the blind, and strength of the weak; even also light of those that see, and strength of the strong, hearken unto my soul, and hear it crying out of the depths.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Lord, let your Scriptures be my chaste delight. Let me neither be deceived in them, nor deceive out of them. Lord, hear and have mercy, O Lord my God, light of the blind and strength of the weak, light also of those who see and strength of the strong; listen to my soul and hear it crying out of the depths.</p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

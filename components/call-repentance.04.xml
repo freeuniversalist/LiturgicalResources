@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-repentance.04">
+  <subject>Call to Repentance</subject>
+  <scripture>Lamentations 3:22-23, 31, 33, 40</scripture>
+  <source ref="web">Lamentations 3:22-23, 31, 33, 40 (World English Bible); "Yahweh" rendered "the Lord".</source>
+  <original>
+    <p>Lamentations 3:22-23 (WEB): It is because of Yahweh’s loving kindnesses that we are not consumed, because his compassion doesn’t fail. They are new every morning. Great is your faithfulness.</p>
+    <p>Lamentations 3:31 (WEB): For the Lord will not cast off forever.</p>
+    <p>Lamentations 3:33 (WEB): For he does not afflict willingly, nor grieve the children of men.</p>
+    <p>Lamentations 3:40 (WEB): Let us search and try our ways, and turn again to Yahweh.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>It is because of the Lord’s loving kindnesses that we are not consumed,</line>
+        <line indent="4">because his compassion doesn’t fail.</line>
+        <line>They are new every morning.</line>
+        <line indent="4">Great is your faithfulness.</line>
+      </p>
+      <p>
+        <line>For the Lord will not cast off forever.</line>
+        <line>For he does not afflict willingly,</line>
+        <line indent="4">nor grieve the children of men.</line>
+      </p>
+      <p>
+        <line>Let us search and try our ways,</line>
+        <line indent="4">and turn again to the Lord.</line>
+      </p>
+    </block>
+  </text>
+</component>

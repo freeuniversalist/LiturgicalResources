@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-to-worship.1cor15-easter-sunday">
+  <subject>Call to Worship</subject>
+  <scripture>1 Corinthians 15:55,57</scripture>
+  <source ref="oeb">1 Corinthians 15:55, 57, Open English Bible, release 2025.6 (US spelling), CC0; verse 57 recast as an imperative, "Give thanks to God".</source>
+  <original>
+    <p>1 Corinthians 15:55 (OEB 2025.6, continuing verse 54): ‘death has been swallowed up in victory! Where, Death, is your victory? Where, death, is your sting?’</p>
+    <p>1 Corinthians 15:57 (OEB 2025.6): But thanks be to God, who gives us the victory, through Jesus Christ, our Lord.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Death has been swallowed up in victory!</line>
+        <line>Where, Death, is your victory?</line>
+        <line>Where, death, is your sting?</line>
+      </p>
+      <p>Give thanks to God, who gives us the victory, through Jesus Christ, our Lord.</p>
+    </block>
+  </text>
+</component>

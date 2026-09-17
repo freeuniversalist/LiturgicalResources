@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="adoration.sarum">
+  <subject>Adoration</subject>
+  <author>Ancient collect, attributed to the Sarum Breviary</author>
+  <source ref="fox-chain-of-prayer">Ancient collect (Fox: "Ancient Collects, A.D. 440"; Noyes: Sarum Breviary), in Selina Fox, A Chain of Prayer Across the Ages (1913), Sunday, Second Week, "A Petition", p. 8. The translator is not identified. Modernised.</source>
+  <original>
+    <p>O God, Author of Eternal Light, do Thou shed forth continual day upon us who watch for Thee, that our lips may praise Thee, our life may bless Thee, our meditations may glorify Thee; through Jesus Christ our Lord. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>God, author of eternal light, shine forth eternal day on us who watch for you, so that our lips may praise you, our life may bless you, and our meditations may glorify you, through Christ our Lord.</p>
+      <p>Amen</p>
+    </block>
+  </text>
+</component>

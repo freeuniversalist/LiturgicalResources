@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="ante-nicene-fathers">
+  <name>The Ante-Nicene Fathers</name>
+  <author>Alexander Roberts and James Donaldson (editors)</author>
+  <publisher>Christian Literature Publishing Co., Buffalo</publisher>
+  <date>1885–1896</date>
+  <url>https://ccel.org/fathers</url>
+  <note>American edition of the Edinburgh Ante-Nicene Christian Library,
+  ten volumes; public domain. Volume 4 (1885) holds Origen, Against
+  Celsus, translated by Frederick Crombie. Also online at
+  https://www.newadvent.org/fathers/</note>
+  <match>Ante-Nicene Fathers</match>
+</source>

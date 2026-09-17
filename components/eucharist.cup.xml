@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.cup">
+  <subject>Eucharist</subject>
+  <title>The Cup</title>
+  <source ref="orchard-1921">W. E. Orchard, The Order of Divine Service (1921), A Simple Observance of the Lord's Supper, p. 117 (Matthew 26:27-28). Lightly modernised; "for all people" per 1 Timothy 2:6 where Orchard has "for many".</source>
+  <original>
+    <p>After the same manner also, he took a cup, (Here the President may take the cup into his hands.) and gave thanks, Thanksgiving. and gave to them saying, Drink ye all of it; for this is my blood of the covenant, which is shed for many unto remission of sins.</p>
+    <p>Adoration.</p>
+    <p>This do as oft as ye drink it, in remembrance of me. (Here all partake of the cup.)</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>After the same manner he also took a cup,</p>
+      <rubric>Here the cup is taken up</rubric>
+      <p>and gave thanks,</p>
+      <p>
+        <em>Thanksgiving.</em>
+      </p>
+      <p>and gave it to them, saying, Drink of it, all of you; for this is my blood of the covenant, which is poured out for all people for the remission of sins.</p>
+      <p>
+        <em>Adoration.</em>
+      </p>
+      <p>This do, as often as you drink it, in remembrance of me.</p>
+      <rubric>Here all partake of the cup</rubric>
+    </block>
+  </text>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="kempis-benham">
+  <name>The Imitation of Christ</name>
+  <author>Thomas à Kempis; translated by William Benham</author>
+  <publisher>Project Gutenberg, eBook 1653 (the translation first published London, 1874)</publisher>
+  <date>1874</date>
+  <url>https://www.gutenberg.org/ebooks/1653</url>
+  <note>Public domain (Benham 1831–1910).</note>
+  <match>\bBenham\b</match>
+</source>

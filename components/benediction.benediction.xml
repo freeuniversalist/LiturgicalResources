@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="benediction.benediction">
+  <subject>Benediction</subject>
+  <source ref="bcp-1892-american">The Grace (2 Corinthians 13:14) as it closes Morning and Evening Prayer in the Book of Common Prayer (1662; American Standard Book of 1892); "Holy Ghost" rendered "Holy Spirit".</source>
+  <original>
+    <p>The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Ghost, be with us all evermore. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>The grace of our Lord Jesus Christ,</line>
+        <line>and the love of God,</line>
+        <line>and the fellowship of the Holy Spirit,</line>
+        <line>be with us all evermore.</line>
+      </p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

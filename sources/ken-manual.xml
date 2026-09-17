@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="ken-manual">
+  <name>A Manual of Prayers for the Use of the Scholars of Winchester College, and All Other Devout Christians</name>
+  <author>Thomas Ken</author>
+  <publisher>London (1755 printing)</publisher>
+  <date>1674; 1755 edition</date>
+  <url>https://archive.org/details/amanualprayersf02kengoog</url>
+  <note>Public domain. The Morning, Evening and Midnight Hymns, each ending with Ken's doxology, were added to the Manual in 1695.</note>
+  <match>\bKen\b</match>
+</source>

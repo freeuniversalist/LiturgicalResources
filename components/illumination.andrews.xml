@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="illumination.andrews">
+  <subject>Illumination</subject>
+  <title>Prayer for Illumination</title>
+  <author>Lancelot Andrewes</author>
+  <source ref="andrewes-brightman">Lancelot Andrewes, Preces Privatae, Morning Prayers: On Waking, translated by F. E. Brightman (1903), p. 23. Modernised; the small changes of Noyes's 1934 printing (an opening "O", the closing Amen) are kept.</source>
+  <original>
+    <p>Thou who sendest forth the light, createst the morning, makest the sun to rise on the good and on the evil: enlighten the blindness of our minds with the knowledge of the truth: lift Thou up the light of thy countenance upon us, that in thy light we may see light, and, at the last, in the light of grace the light of glory.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>O God, you send forth the light, create the morning, and make the sun rise on the good and the evil alike. Enlighten the blindness of our minds with the knowledge of your truth. Lift up the light of your face upon us, that in your light we may see light, and that at the last, through the light of grace, we may come to the light of glory. Amen.</p>
+    </block>
+  </text>
+</component>

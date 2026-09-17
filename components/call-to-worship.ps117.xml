@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-to-worship.ps117">
+  <subject>Call to Worship</subject>
+  <scripture>Psalm 117:1-2</scripture>
+  <source ref="oeb">Psalm 117, Open English Bible, release 2025.6, CC0, verbatim; the divine name printed "Lord".</source>
+  <original>
+    <p>Psalm 117 (OEB 2025.6): Praise the LORD, all you nations: laud him, all you peoples. For his mighty love is over us: the LORD is faithful forever. Hallelujah.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Praise the Lord, all you nations:</line>
+        <line>laud him, all you peoples.</line>
+        <line>For his mighty love is over us:</line>
+        <line>the Lord is faithful forever.</line>
+        <line>Hallelujah.</line>
+      </p>
+    </block>
+  </text>
+</component>

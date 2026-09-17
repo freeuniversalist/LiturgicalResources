@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="adoration.song-of-creation">
+  <subject>Adoration</subject>
+  <author>Song of Creation (Benedicite, omnia opera Domini)</author>
+  <source ref="bcp-1979">A Song of Creation (Benedicite, omnia opera Domini; Song of the Three Young Men 35-65), Canticle 12 of the Book of Common Prayer (1979), Morning Prayer Rite II, pp. 88–89: the Invocation and sections I–III, the Doxology omitted. "Winter and Summer" printed "Winter and summer".</source>
+  <original>
+    <p>Invocation (BCP 1979, Canticle 12): Glorify the Lord, all you works of the Lord, * praise him and highly exalt him for ever. In the firmament of his power, glorify the Lord, * praise him and highly exalt him for ever.</p>
+    <p>I The Cosmic Order: Glorify the Lord, you angels and all powers of the Lord, * O heavens and all waters above the heavens. Sun and moon and stars of the sky, glorify the Lord, * praise him and highly exalt him for ever. Glorify the Lord, every shower of rain and fall of dew, * all winds and fire and heat. Winter and Summer, glorify the Lord, * praise him and highly exalt him for ever. Glorify the Lord, O chill and cold, * drops of dew and flakes of snow. Frost and cold, ice and sleet, glorify the Lord, * praise him and highly exalt him for ever. Glorify the Lord, O nights and days, * O shining light and enfolding dark. Storm clouds and thunderbolts, glorify the Lord, * praise him and highly exalt him for ever.</p>
+    <p>II The Earth and its Creatures: Let the earth glorify the Lord, * praise him and highly exalt him for ever. Glorify the Lord, O mountains and hills, and all that grows upon the earth, * praise him and highly exalt him for ever. Glorify the Lord, O springs of water, seas, and streams, * O whales and all that move in the waters. All birds of the air, glorify the Lord, * praise him and highly exalt him for ever. Glorify the Lord, O beasts of the wild, * and all you flocks and herds. O men and women everywhere, glorify the Lord, * praise him and highly exalt him for ever.</p>
+    <p>III The People of God: Let the people of God glorify the Lord, * praise him and highly exalt him for ever. Glorify the Lord, O priests and servants of the Lord, * praise him and highly exalt him for ever. Glorify the Lord, O spirits and souls of the righteous, * praise him and highly exalt him for ever. You that are holy and humble of heart, glorify the Lord, * praise him and highly exalt him for ever.</p>
+    <p>Doxology: Let us glorify the Lord: Father, Son, and Holy Spirit; * praise him and highly exalt him for ever. In the firmament of his power, glorify the Lord, * praise him and highly exalt him for ever.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Glorify the Lord, all you works of the Lord,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+        <line>In the firmament of his power, glorify the Lord,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+      </p>
+      <p>
+        <line>Glorify the Lord, you angels and all powers of the Lord,</line>
+        <line indent="4">O heavens and all waters above the heavens.</line>
+        <line>Sun and moon and stars of the sky, glorify the Lord,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+      </p>
+      <p>
+        <line>Glorify the Lord, every shower of rain and fall of dew,</line>
+        <line indent="4">all winds and fire and heat.</line>
+        <line>Winter and summer, glorify the Lord,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+      </p>
+      <p>
+        <line>Glorify the Lord, O chill and cold,</line>
+        <line indent="4">drops of dew and flakes of snow.</line>
+        <line>Frost and cold, ice and sleet, glorify the Lord,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+      </p>
+      <p>
+        <line>Glorify the Lord, O nights and days,</line>
+        <line indent="4">O shining light and enfolding dark.</line>
+        <line>Storm clouds and thunderbolts, glorify the Lord,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+      </p>
+      <p>
+        <line>Let the earth glorify the Lord,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+        <line>Glorify the Lord, O mountains and hills,</line>
+        <line>and all that grows upon the earth,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+      </p>
+      <p>
+        <line>Glorify the Lord, O springs of water, seas, and streams,</line>
+        <line indent="4">O whales and all that move in the waters.</line>
+        <line>All birds of the air, glorify the Lord,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+      </p>
+      <p>
+        <line>Glorify the Lord, O beasts of the wild,</line>
+        <line indent="4">and all you flocks and herds.</line>
+        <line>O men and women everywhere, glorify the Lord,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+      </p>
+      <p>
+        <line>Let the people of God glorify the Lord,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+        <line>Glorify the Lord, O priests and servants of the Lord,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+      </p>
+      <p>
+        <line>Glorify the Lord, O spirits and souls of the righteous,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+        <line>You that are holy and humble of heart, glorify the Lord,</line>
+        <line indent="4">praise him and highly exalt him for ever.</line>
+      </p>
+    </block>
+  </text>
+</component>

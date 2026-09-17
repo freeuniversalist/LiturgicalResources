@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="thanksgiving.hugh-cameron">
+  <subject>Thanksgiving</subject>
+  <title>Prayer of Thanksgiving</title>
+  <author>Hugh Cameron</author>
+  <source ref="cameron-prayers-1921">Hugh Cameron, Prayers for Use in Public Worship (1921), Fifth Sunday of the Month, Morning Service, Second Prayer (Confession and Thanksgiving), pp. 58–59. Modernised; the book's punctuation differs slightly.</source>
+  <original>
+    <p>For the pains and distresses which have moulded us as clay is moulded by the potter, and for the consolations which so often like springs in the desert have refreshed our weariness, we thank thee, O God;</p>
+    <p>For the life and doctrine of our Lord Jesus Christ, for his love and sacrifice, for his boundless compassion, and for the glorious company of those who have followed him in weakness unto victory, we thank thee, O God;</p>
+    <p>Lord of our life and God of our salvation, who hast made the world for man and man for thyself; grant that we may so use thy multiplied and unfailing mercies and gifts that all our days being passed in thy fear and in the service of our brethren, we may at the last be found faithful and wise stewards who meet their Lord with joy and not with fear.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>For the life which you have given and preserved,</line>
+        <line>the world in which we dwell,</line>
+        <line>and the hope of everlasting blessedness,</line>
+        <line>we thank you, O God.</line>
+      </p>
+      <p>
+        <line>For the pains and distresses which have moulded us as clay is moulded by the potter,</line>
+        <line>and for the consolations which so often like springs in the desert have refreshed our weariness,</line>
+        <line>we thank you, O God.</line>
+      </p>
+      <p>
+        <line>For comfort and help in sorrow,</line>
+        <line>in pain,</line>
+        <line>in bereavement,</line>
+        <line>and when flesh and heart failed,</line>
+        <line>we thank you, O God.</line>
+      </p>
+      <p>
+        <line>For the warnings of your spirit speaking to our spirits when the sky was bright and all people spoke well of us,</line>
+        <line>we thank you, O God.</line>
+      </p>
+      <p>
+        <line>For the life and doctrine of our Lord Jesus Christ,</line>
+        <line>for his love and sacrifice,</line>
+        <line>for his boundless compassion,</line>
+        <line>and for the glorious company of those who have followed him in weakness unto victory,</line>
+        <line>we thank you, O God.</line>
+      </p>
+    </block>
+  </text>
+</component>

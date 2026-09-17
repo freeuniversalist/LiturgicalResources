@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="confession.matheson">
+  <subject>Confession</subject>
+  <author>George Matheson</author>
+  <source ref="matheson-aspirations">George Matheson, My Aspirations (1883), meditation XIV, "After Poverty of Spirit", pp. 24–25. Modernised and shortened.</source>
+  <original>
+    <p>Even so, my God, is my knowledge of Thee. As long as I am apart from Thee I am self-satisfied, because I have no standard by which to measure my low stature. But when I come near to Thee, then for the first time I see myself. In Thy light I behold my darkness. In Thy majesty I behold my meanness. In Thy purity I behold my corruption. In Thy wealth I behold my poverty of spirit. My very confession of sin is the fruit of holiness; it is the dawn of light that helps me to see the darkness.</p>
+    <p>Say not, then, that to be poor in spirit is unheroic. It is already the proof that the kingdom has come: theirs is the kingdom of heaven. I will not be cast down by my own sense of nothingness. It proves that I have gazed on a higher standard of measurement — the measure of the stature of the perfect man in Christ. O, thou Divine Man, let me gaze on Thee more and more, until, in the vision of Thy brightness, I loath the sight of my impurity — until, in the blaze of that glory which human eye hath not seen, I fall prostrate, blinded, broken, to rise again a new man in Thee!</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>As long as I am apart from you I am self-satisfied, because I have no standard by which to measure my low stature. But when I come near to you, then for the first time I see myself. In your light I behold my darkness. In your majesty I behold my meanness. In your purity I behold my corruption. In your wealth I behold my poverty of spirit.</p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

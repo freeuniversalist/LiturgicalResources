@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="adoration.nyssa">
+  <subject>Adoration</subject>
+  <author>Gregory of Nyssa</author>
+  <source ref="npnf-2">Gregory of Nyssa, On the Baptism of Christ (A Sermon for the Day of the Lights), closing paragraph, translated by H. A. Wilson, in Nicene and Post-Nicene Fathers, second series, vol. 5 (1893), p. 520. https://ccel.org/ccel/schaff/npnf205/npnf205.xii.iii.html</source>
+  <original>
+    <p>For Thou verily, O Lord, art the pure and eternal fount of goodness, Who didst justly turn away from us, and in loving kindness didst have mercy upon us. Thou didst hate, and wert reconciled; Thou didst curse, and didst bless; Thou didst banish us from Paradise, and didst recall us; Thou didst strip off the fig-tree leaves, an unseemly covering, and put upon us a costly garment; Thou didst open the prison, and didst release the condemned; Thou didst sprinkle us with clean water, and cleanse us from our filthiness. No longer shall Adam be confounded when called by Thee, nor hide himself, convicted by his conscience, cowering in the thicket of Paradise. Nor shall the flaming sword encircle Paradise around, and make the entrance inaccessible to those that draw near; but all is turned to joy for us that were the heirs of sin: Paradise, yea, heaven itself may be trodden by man: and the creation, in the world and above the world, that once was at variance with itself, is knit together in friendship: and we men are made to join in the angels' song, offering the worship of their praise to God. For all these things then let us sing to God that hymn of joy, which lips touched by the Spirit long ago sang loudly: “Let my soul be joyful in the Lord: for He hath clothed me with a garment of salvation, and hath put upon me a robe of gladness: as on a bridegroom He hath set a mitre upon me, and as a bride hath He adorned me with fair array.” And verily the Adorner of the bride is Christ, Who is, and was, and shall be, blessed now and for evermore. Amen.</p>
+  </original>
+  <updated>Lord, you are the pure and eternal fount of goodness, who justly turned away from us, and in loving kindness had mercy upon us. You hated, and were reconciled; you cursed, and blessed; you banished us from Paradise, and called us back; you stripped off the fig leaves, an unseemly covering, and clothed us in a costly garment; you opened the prison, and released the condemned; you sprinkled us with clean water, and cleansed us from our uncleanness.
+
+No longer shall Adam be ashamed when called by you, nor hide himself, convicted by his conscience, cowering in the thicket of Paradise. No longer shall the flaming sword encircle Paradise and bar the entrance to those who draw near; but all is turned to joy for us who were the heirs of sin. Paradise, yes, heaven itself, is opened to humankind; and creation, in the world and above the world, once at variance with itself, is knit together in friendship; and we are made to join in the angels' song, offering to God the worship of their praise.
+
+For all these things, then, let us sing to God that hymn of joy which lips touched by the Spirit long ago sang aloud: 
+
+Let my soul rejoice in the Lord, \
+for he has clothed me with a garment of salvation, \
+and put upon me a robe of gladness; \
+as on a bridegroom he has set a crown upon me, \
+and as a bride he has adorned me with beauty.
+
+And truly the Adorner of the bride is Christ, who is, and was, and shall be, blessed now and for evermore. 
+
+Amen.</updated>
+  <notes>Gregory's sermon "On the Baptism of Christ: A Sermon for the Day of Lights" (a homily for the feast of Epiphany/Theophany)
+
+Gibson quotes from Walter Mitchell's translation, which appeared in Early Christian Prayers (ed. A. Hamman, 1961). 
+
+Below Nicene and Post-Nicene Fathers (NPNF), Series II, Volume 5 — translated by H.A. Wilson and published in 1893,  at https://www.newadvent.org/fathers/2910.htm and elsewhere</notes>
+  <text>
+    <block type="prayer">
+      <p>Lord, you are the pure and eternal fount of goodness, who justly turned away from us, and in loving kindness had mercy upon us. You hated, and were reconciled; you cursed, and blessed; you banished us from Paradise, and called us back; you stripped off the fig leaves, an unseemly covering, and clothed us in a costly garment; you opened the prison, and released the condemned; you sprinkled us with clean water, and cleansed us from our uncleanness.</p>
+      <p>No longer will Adam be ashamed when called by you, nor hide himself, convicted by his conscience, cowering in the thicket of Paradise. No longer will the flaming sword encircle Paradise and bar the entrance to those who draw near; but all is turned to joy for us who were the heirs of sin. Paradise, yes, heaven itself, is opened to humankind; and creation, in the world and above the world, once at variance with itself, is knit together in friendship; and we are made to join in the angels' song, offering to God the worship of their praise.</p>
+      <p>For all these things, then, let us sing to God that hymn of joy which lips touched by the Spirit long ago sang aloud:</p>
+      <p>
+        <line>Let my soul rejoice in the Lord,</line>
+        <line>for he has clothed me with a garment of salvation,</line>
+        <line>and put upon me a robe of gladness;</line>
+        <line>as on a bridegroom he has set a crown upon me,</line>
+        <line>and as a bride he has adorned me with beauty.</line>
+      </p>
+      <p>And truly the Adorner of the bride is Christ, who is, and was, and shall be, blessed now and for evermore.</p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

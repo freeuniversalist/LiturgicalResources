@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="illumination.mozarabic">
+  <subject>Illumination</subject>
+  <title>Prayer for Illumination</title>
+  <author>Mozarabic Rite</author>
+  <source ref="bright-ancient-collects">Mozarabic collect, in William Bright, Ancient Collects (third edition, 1864), "Prayers for Various Graces: For Sacred Knowledge", p. 78.</source>
+  <original>
+    <p>Show the light of Thy countenance upon us, Lord, that the going-forth of Thy word may give light and understanding, to nourish the hearts of the simple; and that while our desire is set on Thy commandments, we may receive with open heart the Spirit of wisdom and understanding.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Show the light of your countenance upon us, Lord, that the going-forth of your Word may give light and understanding, to nourish the hearts of the humble; and that while our desire is set on your commandments, we may receive with open heart your spirit of wisdom and understanding.</p>
+    </block>
+  </text>
+</component>

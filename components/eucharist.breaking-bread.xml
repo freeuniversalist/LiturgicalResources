@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.breaking-bread">
+  <subject>Eucharist</subject>
+  <title>The Breaking of the Bread</title>
+  <source ref="web">Fraction versicle adapted from 1 Corinthians 10:16b-17 (World English Bible), the question made a statement. "Come, for all things are now ready" is Luke 14:17 in the King James wording (WEB: "Come, for everything is ready now"). The invitation is an original composition, CC0, alluding to Isaiah 25:6 and John 12:32.</source>
+  <original>
+    <p>1 Corinthians 10:16-17 (WEB): The cup of blessing which we bless, isn’t it a sharing of the blood of Christ? The bread which we break, isn’t it a sharing of the body of Christ? Because there is one loaf of bread, we, who are many, are one body; for we all partake of the one loaf of bread.</p>
+    <p>Luke 14:17 (WEB): He sent out his servant at supper time to tell those who were invited, ‘Come, for everything is ready now.’</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <rubric>The bread is broken</rubric>
+      <p>
+        <line>The bread which we break is a sharing in the body of Christ.</line>
+        <line>We who are many are one body,</line>
+        <line>for we all share the one bread.</line>
+      </p>
+      <p>Friends, this is the feast that God prepares for all peoples. Jesus ate with the righteous and the outcast alike, and promised that, lifted up, he would draw all people to himself. This table is his, not ours, and from it no one is turned away — not the doubting, not the failing, not the stranger, not you.</p>
+      <p>Come, for all things are now ready.</p>
+    </block>
+  </text>
+</component>

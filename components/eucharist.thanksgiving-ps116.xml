@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.thanksgiving-ps116">
+  <subject>Eucharist</subject>
+  <title>Thanksgiving at the Table</title>
+  <source ref="bcp-1979 web">Versicle: Lamentations 3:41 (World English Bible). Response: Psalm 92:1 (Psalter of the Book of Common Prayer 1979). Psalm 116:10-15 (BCP 1979 psalter). Isaiah 25:6a, 8a, 9 (World English Bible, abridged; "Yahweh of Armies" rendered "the Lord of hosts", "the Lord Yahweh" rendered "the Lord God"), as in call-to-worship.isaiah25. Response: Isaiah 6:3b (World English Bible, "the Lord of hosts"). Every spoken word is scripture.</source>
+  <original>
+    <p>Lamentations 3:41 (WEB): Let us lift up our heart with our hands to God in the heavens.</p>
+    <p>Psalm 92:1 (BCP 1979): It is a good thing to give thanks to the LORD, * and to sing praises to your Name, O Most High;</p>
+    <p>Psalm 116:10-15 (BCP 1979): How shall I repay the LORD * for all the good things he has done for me? I will lift up the cup of salvation * and call upon the Name of the LORD. I will fulfill my vows to the LORD * in the presence of all his people. Precious in the sight of the LORD * is the death of his servants. O LORD, I am your servant; * I am your servant and the child of your handmaid; * you have freed me from my bonds. I will offer you the sacrifice of thanksgiving * and call upon the Name of the LORD.</p>
+    <p>Isaiah 25:6 (WEB): In this mountain, Yahweh of Armies will make all peoples a feast of choice meat, a feast of choice wines, of choice meat full of marrow, of well refined choice wines.</p>
+    <p>Isaiah 25:8 (WEB): He has swallowed up death forever! The Lord Yahweh will wipe away tears from off all faces. He will take the reproach of his people away from off all the earth, for Yahweh has spoken it.</p>
+    <p>Isaiah 25:9 (WEB): It shall be said in that day, “Behold, this is our God! We have waited for him, and he will save us! This is Yahweh! We have waited for him. We will be glad and rejoice in his salvation!”</p>
+    <p>Isaiah 6:3 (WEB): One called to another, and said, “Holy, holy, holy, is Yahweh of Armies! The whole earth is full of his glory!”</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Let us lift up our heart with our hands to God in the heavens.</p>
+      <response>
+        <line>It is a good thing to give thanks to the Lord,</line>
+        <line>and to sing praises to your Name, O Most High.</line>
+      </response>
+      <p>
+        <line>How shall I repay the Lord</line>
+        <line indent="4">for all the good things he has done for me?</line>
+        <line>I will lift up the cup of salvation</line>
+        <line indent="4">and call upon the Name of the Lord.</line>
+        <line>I will fulfill my vows to the Lord</line>
+        <line indent="4">in the presence of all his people.</line>
+        <line>Precious in the sight of the Lord</line>
+        <line indent="4">is the death of his servants.</line>
+        <line>O Lord, I am your servant;</line>
+        <line indent="4">I am your servant and the child of your handmaid;</line>
+        <line indent="4">you have freed me from my bonds.</line>
+        <line>I will offer you the sacrifice of thanksgiving</line>
+        <line indent="4">and call upon the Name of the Lord.</line>
+      </p>
+      <p>
+        <line>In this mountain, the Lord of hosts will make all peoples</line>
+        <line indent="3">a feast of choice meat, a feast of choice wines.</line>
+      </p>
+      <p>
+        <line>He has swallowed up death forever!</line>
+        <line>The Lord God will wipe away tears from off all faces.</line>
+      </p>
+      <p>
+        <line>It shall be said in that day:</line>
+        <line indent="3">Behold, this is our God! We have waited for him,</line>
+        <line indent="3">and he will save us!</line>
+        <line>We will be glad and rejoice in his salvation!</line>
+      </p>
+      <response>
+        <line>Holy, holy, holy, is the Lord of hosts!</line>
+        <line>The whole earth is full of his glory!</line>
+      </response>
+    </block>
+  </text>
+</component>

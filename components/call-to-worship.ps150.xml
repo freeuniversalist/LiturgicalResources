@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-to-worship.ps150">
+  <subject>Call to Worship</subject>
+  <scripture>Psalm 150</scripture>
+  <source ref="oeb">Psalm 150:1-2, Open English Bible, release 2025.6, CC0; "Hallelujah" rendered "Praise the Lord".</source>
+  <original>
+    <p>Psalm 150:1-2 (OEB 2025.6): Hallelujah. Praise God in his holy place. Praise him in the sky, his stronghold. Praise him for his deeds of power. Praise him for his boundless greatness.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Praise the Lord.</line>
+        <line>Praise God in his holy place.</line>
+      </p>
+      <p>
+        <line>Praise him in the sky, his stronghold.</line>
+        <line>Praise him for his deeds of power.</line>
+        <line>Praise him for his boundless greatness.</line>
+      </p>
+    </block>
+  </text>
+</component>

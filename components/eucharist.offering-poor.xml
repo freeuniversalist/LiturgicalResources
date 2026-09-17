@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.offering-poor">
+  <subject>Eucharist</subject>
+  <title>Offering for the Poor</title>
+  <scripture>2 Corinthians 8:9</scripture>
+  <source ref="orchard-1921">W. E. Orchard, The Order of Divine Service (1921), A Simple Observance of the Lord's Supper, p. 117 (2 Corinthians 8:9). Lightly modernised.</source>
+  <original>
+    <p>(The offerings for the Poor may now be collected, the President saying: Brethren, ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might become rich.)</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <rubric>An offering for the poor may now be collected, or a gift to charity decided upon</rubric>
+      <p>Friends, you know the grace of our Lord Jesus Christ: that though he was rich, yet for your sakes he became poor, so that you, through his poverty, might become rich.</p>
+    </block>
+  </text>
+</component>

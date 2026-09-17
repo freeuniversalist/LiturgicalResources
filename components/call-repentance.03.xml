@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-repentance.03">
+  <subject>Call to Repentance</subject>
+  <scripture>Romans 8:38-39 and Joel 2:13</scripture>
+  <source ref="oeb web">Romans 8:38-39 (World English Bible; opening "For" omitted) and Joel 2:13 (Open English Bible, release 2025.6, CC0; the divine name printed "Lord").</source>
+  <original>
+    <p>Romans 8:38-39 (WEB): For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor any other created thing, will be able to separate us from God’s love, which is in Christ Jesus our Lord.</p>
+    <p>Joel 2:13 (OEB 2025.6): rend your hearts and not your garments, and turn to the LORD your God; for he indeed is gracious and merciful, slow to anger and plenteous in love, and relents of the evil.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor any other created thing, will be able to separate us from God’s love, which is in Christ Jesus our Lord.</p>
+      <p>Rend your hearts and not your garments, and turn to the Lord your God; for he indeed is gracious and merciful, slow to anger and plenteous in love, and relents of the evil.</p>
+    </block>
+  </text>
+</component>

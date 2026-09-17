@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="adoration.edwards2">
+  <subject>Adoration</subject>
+  <author>Jonathan Edwards</author>
+  <source ref="edwards-works">Jonathan Edwards, The Nature of True Virtue, chapter II, in Works of Jonathan Edwards, vol. 1 (Hickman edition, 1834), p. 125. https://ccel.org/ccel/edwards/works1.v.ii.html Rendered into the second person as a prayer.</source>
+  <original>
+    <p>And all true virtue must radically and essentially, and, as it were, summarily, consist in this. Because God is not only infinitely greater and more excellent than all other being, but he is the head of the universal system of existence; the foundation and fountain of all being and all beauty; from whom all is perfectly derived, and on whom all is most absolutely and perfectly dependent; of whom, and through whom, and to whom is all being and all perfection; and whose being and beauty are, as it were, the sum and comprehension of all existence and excellence: much more than the sun is the fountain and summary comprehension of all the light and brightness of the day.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Almighty God, all true virtue consists, at its root and in its essence, in you. For you are not only infinitely greater and more excellent than all other being, but you are the head of the whole system of existence; the foundation and fountain of all being and all beauty; the one from whom everything is perfectly derived, and on whom everything is most absolutely and perfectly dependent; the one from whom, through whom, and to whom belongs all being and all perfection; whose own being and beauty is the sum and fullness of all existence and excellence — far more than the sun is the source and fullness of all the light and brightness of the day. Amen.</p>
+    </block>
+  </text>
+</component>

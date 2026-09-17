@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.preparation">
+  <subject>Eucharist</subject>
+  <title>Preparation of the Table</title>
+  <author>W. E. Orchard</author>
+  <source ref="orchard-1921">W. E. Orchard, The Order of Divine Service (1921), A Simple Observance of the Lord's Supper, p. 116: the President's opening words (Matthew 26:19) and the first rubric. Adapted for use without a president; scripture lightly modernised.</source>
+  <original>
+    <p>The disciples did as Jesus appointed them; and they made ready the Passover.</p>
+    <p>(Here the elements may be distributed, and those who are to partake may prepare themselves by prayer.)</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>The disciples did as Jesus directed them; and they made ready the Passover.</p>
+      <rubric>Here the bread and cup are set out and may be distributed, and those who are to partake prepare themselves by prayer</rubric>
+    </block>
+  </text>
+</component>

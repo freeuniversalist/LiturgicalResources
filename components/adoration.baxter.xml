@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="adoration.baxter">
+  <subject>Adoration</subject>
+  <author>Richard Baxter</author>
+  <source ref="baxter-works">Richard Baxter, A Form of Praise and Prayer for the Lord's-day, appended to A Call to the Unconverted, in The Practical Works of Richard Baxter (1830), vol. 7, pp. 460–461. Modernised.</source>
+  <original>
+    <p>We praise and glorify thee our Lord and Owner; for we and all things are thine own. We praise and glorify thee our King and Ruler; for we are thy subjects, and our perfect obedience is thy due; just are all thy laws and judgments; true and sure is all thy word. We praise and glorify thee, our great Benefactor; in thee we live, and move, and are; all that we are, or have, or can do, is wholly from thee, the Cause of all; and all is for thee, for thou art our End. Delightfully to love thee, is our greatest duty, and our only felicity; for thou art love itself, and infinitely amiable.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>We praise and glorify you our Lord and owner, for we and all things are your own. We praise and glorify you our king and ruler, for we are your subjects, and our perfect obedience is your due. Just are all your laws and judgment; true and sure is all your Word. We praise and glorify you, our great benefactor. In you we live, and move, and are: all that we are, or have, or can do, is wholly from you, the cause of all; and all is for you, for you are our end. Delightfully to love you is our greatest duty, and our only felicity, for you are love itself, and infinitely amiable. Amen.</p>
+    </block>
+  </text>
+</component>

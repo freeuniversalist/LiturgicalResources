@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-to-worship.isaiah25">
+  <subject>Call to Worship</subject>
+  <scripture>Isaiah 25:6-9</scripture>
+  <source ref="web">Isaiah 25:6a, 8a, 9 (World English Bible), abridged; "Yahweh of Armies" rendered "the Lord of hosts" and "the Lord Yahweh" rendered "the Lord God".</source>
+  <original>
+    <p>Isaiah 25:6 (WEB): In this mountain, Yahweh of Armies will make all peoples a feast of choice meat, a feast of choice wines, of choice meat full of marrow, of well refined choice wines.</p>
+    <p>Isaiah 25:8 (WEB): He has swallowed up death forever! The Lord Yahweh will wipe away tears from off all faces. He will take the reproach of his people away from off all the earth, for Yahweh has spoken it.</p>
+    <p>Isaiah 25:9 (WEB): It shall be said in that day, “Behold, this is our God! We have waited for him, and he will save us! This is Yahweh! We have waited for him. We will be glad and rejoice in his salvation!”</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>In this mountain, the Lord of hosts will make all peoples</line>
+        <line indent="3">a feast of choice meat, a feast of choice wines.</line>
+      </p>
+      <p>
+        <line>He has swallowed up death forever!</line>
+        <line>The Lord God will wipe away tears from off all faces.</line>
+      </p>
+      <p>
+        <line>It shall be said in that day:</line>
+        <line indent="3">Behold, this is our God! We have waited for him,</line>
+        <line indent="3">and he will save us!</line>
+        <line>We will be glad and rejoice in his salvation!</line>
+      </p>
+    </block>
+  </text>
+</component>

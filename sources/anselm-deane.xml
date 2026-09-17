@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="anselm-deane">
+  <name>St. Anselm: Proslogium; Monologium; An Appendix in Behalf of the Fool by Gaunilon; and Cur Deus Homo</name>
+  <author>Anselm of Canterbury; translated by Sidney Norton Deane</author>
+  <publisher>The Open Court Publishing Company, Chicago</publisher>
+  <date>1903</date>
+  <url>https://archive.org/details/stanselmeproslog00anseuoft</url>
+  <note>Public domain. Also transcribed at https://ccel.org/ccel/anselm/basic_works.html</note>
+  <match>\bDeane\b</match>
+</source>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.high-priestly-prayer">
+  <subject>Eucharist</subject>
+  <title>The High Priestly Prayer</title>
+  <scripture>John 17</scripture>
+  <source ref="orchard-1921">W. E. Orchard, The Order of Divine Service (1921), A Simple Observance of the Lord's Supper, pp. 117–118, "The High Priestly Prayer" (John 17:9-10, 20-21). Lightly modernised. Orchard's opening line reads "Father, I pray not for the world, but for those whom thou hast given me"; the exclusion is omitted here, since the prayer itself ends with the world's believing.</source>
+  <original>
+    <p>Jesus, lifting up his eyes unto heaven, said, Father, I pray not for the world, but for those whom thou hast given me; for they are thine, and I am glorified in them.</p>
+    <p>Remembrance of the saints and the departed.</p>
+    <p>Neither for these only do I pray, but for them also that believe on me through their word;</p>
+    <p>Remembrance of the living.</p>
+    <p>That they may all be one; even as thou, Father, art in me, and I in thee:</p>
+    <p>Prayer for the unity of the Church.</p>
+    <p>That the world may believe that thou didst send me.</p>
+    <p>Prayer for the conversion of the world and the coming of the Kingdom.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Jesus, lifting up his eyes to heaven, said: Father, I pray for those whom you have given me; for they are yours, and I am glorified in them.</p>
+      <p>
+        <em>Remembrance of the saints and of the departed.</em>
+      </p>
+      <p>Neither for these only do I pray, but for those also who believe in me through their word;</p>
+      <p>
+        <em>Remembrance of the living.</em>
+      </p>
+      <p>that they may all be one; even as you, Father, are in me, and I in you;</p>
+      <p>
+        <em>Prayer for the unity of the Church.</em>
+      </p>
+      <p>that the world may believe that you have sent me.</p>
+      <p>
+        <em>Prayer for the conversion of the world and the coming of the Kingdom.</em>
+      </p>
+    </block>
+  </text>
+</component>

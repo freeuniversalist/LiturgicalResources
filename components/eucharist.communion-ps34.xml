@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.communion-ps34">
+  <subject>Eucharist</subject>
+  <title>Communion</title>
+  <source ref="coverdale-modern web">John 6:35 adapted from the World English Bible (pronouns made inclusive). Response: Psalm 34:8 from the Common Coverdale Psalter (modern text, CC0), second half pluralised. Every spoken word is scripture.</source>
+  <original>
+    <p>John 6:35 (WEB): Jesus said to them, “I am the bread of life. He who comes to me will not be hungry, and he who believes in me will never be thirsty.”</p>
+    <p>Psalm 34:8 (Common Coverdale Psalter, modern): O taste and see how gracious the LORD is; * blessed is the one who trusts in him.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Jesus said to them, “I am the bread of life. Those who come to me will not be hungry, and the one who believes in me will never be thirsty.”</p>
+      <response>
+        <line>O taste and see how gracious the Lord is;</line>
+        <line>blessed are those who trust in him.</line>
+      </response>
+      <rubric>All eat and drink, in silence or with quiet music. If worshipping in a group, serve one another.</rubric>
+      <p>
+        <em>Adoration.</em>
+      </p>
+    </block>
+  </text>
+</component>

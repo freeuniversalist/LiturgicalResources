@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="bcp-1892-american">
+  <name>The Book of Common Prayer according to the use of the Protestant Episcopal Church in the United States of America (Standard Book of 1892)</name>
+  <author>Protestant Episcopal Church in the United States</author>
+  <publisher>Printed for the General Convention, New York</publisher>
+  <date>1892</date>
+  <url>https://archive.org/details/cu31924029458175</url>
+  <note>Public domain. Its collects follow the English 1662 revision of Cranmer's 1549 text with small American changes.</note>
+  <match>\b1892\b</match>
+</source>

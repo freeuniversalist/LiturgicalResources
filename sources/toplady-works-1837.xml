@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="toplady-works-1837">
+  <name>The Works of Augustus Toplady, B.A., late Vicar of Broad Hembury, Devon</name>
+  <author>Augustus Toplady</author>
+  <publisher>J. Chidley, London</publisher>
+  <date>1837</date>
+  <url>https://archive.org/details/worksoftoplady00topluoft</url>
+  <note>One-volume edition; public domain (Toplady died 1778). Its "Course of Family Prayer" (pp. 771–782) was first printed from his manuscripts as A Course of Prayer, for Each Day in the Week (1790), https://archive.org/details/bim_eighteenth-century_a-course-of-prayer-for-_toplady-augustus_1790</note>
+  <match>\bToplady\b</match>
+</source>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="confession.loethe">
+  <subject>Confession</subject>
+  <author>Wilhelm Löhe</author>
+  <source ref="loehe-seed-grains">Wilhelm Löhe, Seed-Grains of Prayer (1914), Evening Prayers: Short Prayers to Repeat upon Lying Down or upon Waking at Night, no. 56, p. 68. The prayer's closing sentence, "May the Almighty Lord grant us a peaceful night and a blessed end. Amen.", is omitted. Modernised.</source>
+  <original>
+    <p>Lord Jesus Christ, Who bearest the lost sheep back into the fold in Thine arms, and deignest to hear the confession of the Publican, graciously remit all my guilt and sin. Lord, Who hearest the penitent thief; Who hast set an heritage of mercy for Thy saints; and, hast not withheld pardon from the sinner; hear the prayers of Thy servants according to Thy mercy. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Lord Jesus Christ,</line>
+        <line>you carry the lost sheep back into the fold in your arms,</line>
+        <line>and you graciously hear the confession of the tax collector;</line>
+        <line>mercifully forgive all my guilt and sin.</line>
+      </p>
+      <p>
+        <line>Lord, you hear the penitent thief,</line>
+        <line>you have prepared an inheritance of mercy for your people,</line>
+        <line>and have not withheld pardon from the sinner;</line>
+        <line>hear the prayers of your servants according to your mercy.</line>
+      </p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

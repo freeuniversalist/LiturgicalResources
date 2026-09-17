@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="simpson-1929">
+  <name>Let Us Worship God: A Book of Prayers for Divine Service</name>
+  <author>Hubert L. Simpson</author>
+  <publisher>Doubleday, Doran and Co., New York; James Clarke and Co., London</publisher>
+  <date>1929</date>
+  <url>https://archive.org/details/letusworshipgodb00simp</url>
+  <note>First published by James Clarke, London, 1928; the American
+  edition of 1929 is the copy online. In the US public domain
+  (published before 1931).</note>
+  <match>\bSimpson\b</match>
+</source>

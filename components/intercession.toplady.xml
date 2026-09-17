@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="intercession.toplady">
+  <subject>Intercession</subject>
+  <title>Prayer of Intercession</title>
+  <author>Augustus Toplady</author>
+  <source ref="toplady-works-1837">Augustus Toplady, Course of Family Prayer, Monday Morning, the collect before reading the Scripture, in The Works of Augustus Toplady (1837), p. 773; first printed in A Course of Prayer (1790), pp. 9–10. Modernised.</source>
+  <original>
+    <p>Open our eyes, O Lord, that we may discern the wonders of thy law; and rejoice our hearts with the knowledge of thy love. Take away our iniquities, and receive us graciously. Be light to our darkness, wisdom to our folly, and manifest thy strength in our weakness. Remember us according to the favour which thou bearest to thy own people; stir us up to seek thy face, and to lay hold on thy covenant: and make us find that it is indeed good for us to draw nigh unto thee, and to wait upon thee in and through the name and merits of Jesus Christ our only Mediator and Advocate.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Open our eyes, Lord, that we may see the wonders of your law, and gladden our hearts with the knowledge of your love. Take away our sins and receive us graciously. Be light to our darkness, wisdom to our folly, and show your strength in our weakness. Remember us with the favour you show to your own people; stir us up to seek your face and lay hold of your covenant; and let us find that it is indeed good for us to draw near to you and to wait on you, in and through the name and merits of Jesus Christ, our only mediator and advocate. Amen.</p>
+    </block>
+  </text>
+</component>

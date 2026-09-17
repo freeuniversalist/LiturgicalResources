@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="intercession.easter-sunday">
+  <subject>Intercession</subject>
+  <title>Prayer of Intercession</title>
+  <author>Church of Scotland, Family Prayers (1882)</author>
+  <source ref="scotland-family-prayers-1882">Church of Scotland, Family Prayers (1882), no. XXVI, For the Lord's Day, p. 153. Modernised and shortened; "as on this day" and the ending after "things above" are omitted. Noyes (1934) cites the Book of Common Order.</source>
+  <original>
+    <p>Almighty God, Father of our Lord Jesus Christ, who didst, as on this day, raise up Thy Son from the dead and give Him glory, that our faith and hope might be in Thee, quicken us also, we beseech Thee, by Thy mighty power, from the death of sin to the life of righteousness, and cause us to set our affection on things above; so that we may at the last day have part in the resurrection of the just, and in the glory of Thy heavenly kingdom, whither Jesus the Forerunner is for us entered, where also He liveth and reigneth with Thee and the Holy Ghost, God blessed for ever. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Almighty God, father of our Lord Jesus Christ, you raised up your son from the dead and gave him glory, so that our faith and hope might be in you; raise us also, we pray you, by your mighty power, from the death of sin to the life of righteousness, and cause us to set our affections on things above.</p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

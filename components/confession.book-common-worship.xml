@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="confession.book-common-worship">
+  <subject>Confession</subject>
+  <author>Book of Common Worship (1906)</author>
+  <source ref="bcw-1906">Prayer of confession at the Evening Service, The Book of Common Worship (1906), p. 12. Modernised. Noyes (1934) printed the 1932 revision's shorter form ("from all our offenses", "confessing our faults"); this text follows the 1906 wording.</source>
+  <original>
+    <p>Eternal God, in whom we live and move and have our being, whose face is hidden from us by our sins, and whose mercy we forget in the blindness of our hearts; Cleanse us, we beseech Thee, from all the defilements of this day, and deliver us from all proud thoughts and vain desires; that with lowliness and meekness we may draw near to Thee in prayer, confessing our sins, confiding in Thy grace, and finding in Thee our refuge and our strength, our hope and our salvation; through Jesus Christ Thy Son. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Eternal God, in whom we live and move and have our being, whose face is hidden from us by our sins, and whose mercy we forget in the blindness of our hearts: cleanse us, we pray you, from all the defilements of this day, and deliver us from all proud thoughts and vain desires; that with lowliness and meekness we may draw near to you in prayer, confessing our sins, confiding in your grace, and finding in you our refuge and our strength, our hope and our salvation; through Jesus Christ your Son. Amen.</p>
+    </block>
+  </text>
+</component>

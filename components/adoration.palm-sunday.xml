@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="adoration.palm-sunday">
+  <subject>Adoration</subject>
+  <author>Theodulf of Orléans</author>
+  <source ref="duemmler-poetae">Theodulf of Orléans, "Gloria, laus et honor" (Versus facti ut a pueris in die palmarum cantarentur), lines 1–12, in Dümmler, Poetae Latini Aevi Carolini, vol. 1 (1881), carmen 69, p. 558. Unrhymed translation by Russell Allen, CC0; the first couplet, the refrain, is repeated at the end. J. M. Neale's metrical version is "All glory, laud and honour".</source>
+  <original>
+    <p>Gloria, laus et honor tibi sit, rex Christe redemptor, cui puerile decus prompsit osanna pium.</p>
+    <p>Israhel es tu rex, Davidis et inclita proles, nomine qui in domini, rex benedicte, venis.</p>
+    <p>Coetus in excelsis te laudat caelicus omnis, et mortalis homo et cuncta creata simul.</p>
+    <p>Plebs Hebraea tibi cum palmis obvia venit: cum prece, voto, hymnis adsumus ecce tibi.</p>
+    <p>Hi tibi passuro solvebant munia laudis, nos tibi regnanti pangimus ecce melos.</p>
+    <p>Hi placuere tibi: placeat devotio nostra, rex pie, rex clemens, cui bona cuncta placent.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Glory, praise and honour to you, Christ, Redeemer, King.</line>
+        <line>To you the lips of children made sweet hosannas ring!</line>
+      </p>
+      <p>
+        <line>You are Israel's King, David's noble Son.</line>
+        <line>Blessed King, you come in the name of the Lord.</line>
+      </p>
+      <p>
+        <line>All heaven praises you on high,</line>
+        <line>mortal humanity and all creation join them.</line>
+      </p>
+      <p>
+        <line>The Hebrews came before you bearing palms.</line>
+        <line>We come before you now with prayers, with vows, with hymns.</line>
+      </p>
+      <p>
+        <line>They gave their praise as you went toward your suffering.</line>
+        <line>We sing to you now that you reign.</line>
+      </p>
+      <p>
+        <line>Their devotion pleased you — may ours please you too,</line>
+        <line>good King, gentle King, you who delight in all that is good.</line>
+      </p>
+      <p>
+        <line>Glory, praise and honour to you, Christ, Redeemer, King.</line>
+        <line>To you the lips of children made sweet hosannas ring!</line>
+      </p>
+    </block>
+  </text>
+</component>

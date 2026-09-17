@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-to-worship.isaiah57">
+  <subject>Call to Worship</subject>
+  <scripture>Isaiah 57:15</scripture>
+  <source ref="web">Isaiah 57:15 (World English Bible); "him" rendered "the person".</source>
+  <original>
+    <p>Isaiah 57:15 (WEB): For thus says the high and lofty One who inhabits eternity, whose name is Holy: “I dwell in the high and holy place, with him also who is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>For thus says the high and lofty One who inhabits eternity, whose name is Holy: I dwell in the high and holy place, with the person also who is of a contrite and humble spirit, to revive the spirit of the humble, and to revive the heart of the contrite.</p>
+    </block>
+  </text>
+</component>

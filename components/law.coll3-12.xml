@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="law.coll3-12">
+  <subject>The Law</subject>
+  <title>Reading of the Law</title>
+  <scripture>Colossians 3:12-17</scripture>
+  <source ref="web">Colossians 3:12-17 (World English Bible); "if any man has a complaint against any" rendered "if anyone has a complaint against anyone else".</source>
+  <original>
+    <p>Colossians 3:12-17 (WEB): Put on therefore, as God’s chosen ones, holy and beloved, a heart of compassion, kindness, lowliness, humility, and perseverance; bearing with one another, and forgiving each other, if any man has a complaint against any; even as Christ forgave you, so you also do. Above all these things, walk in love, which is the bond of perfection. And let the peace of God rule in your hearts, to which also you were called in one body; and be thankful. Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms, hymns, and spiritual songs, singing with grace in your heart to the Lord. Whatever you do, in word or in deed, do all in the name of the Lord Jesus, giving thanks to God the Father, through him.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Put on therefore, as God’s chosen ones, holy and beloved, a heart of compassion, kindness, lowliness, humility, and perseverance;  bearing with one another, and forgiving each other, if anyone has a complaint against anyone else; even as Christ forgave you, so you also do.</p>
+      <p>Above all these things, walk in love, which is the bond of perfection. And let the peace of God rule in your hearts, to which also you were called in one body; and be thankful. Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms, hymns, and spiritual songs, singing with grace in your heart to the Lord.</p>
+      <p>Whatever you do, in word or in deed, do all in the name of the Lord Jesus, giving thanks to God the Father, through him.</p>
+    </block>
+  </text>
+</component>

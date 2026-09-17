@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="intercession.ursinus">
+  <subject>Intercession</subject>
+  <title>Prayer of Intercession</title>
+  <author>Zacharias Ursinus, Heidelberg Catechism</author>
+  <source ref="heidelberg-harbaugh">Heidelberg Catechism (1563), question 122, on the first petition of the Lord's Prayer, in Henry Harbaugh's translation (1889), p. 218, recast as a prayer with an invocation and Amen. The same text stands as a prayer in the Palatinate Church Order of 1563, of which no public-domain English translation has been found.</source>
+  <original>
+    <p>Hallowed be thy name. That is: Grant us first, rightly to know thee, and to sanctify, glorify and praise thee in all thy works, in which thy power, wisdom, goodness, justice, mercy and truth are clearly displayed, and further also, that we may so order and direct our whole lives, our thoughts, words and actions, as that thy name may never be blasphemed, but rather honored and praised, on our account.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Almighty God, heavenly Father, grant us first rightly to know you, and to sanctify, glorify and praise you in all your works, in which your power, wisdom, goodness, justice, mercy and truth are clearly displayed; and further, that we may so order and direct our whole lives, our thoughts, words and actions, that your name may never be blasphemed, but rather honored and praised on our account. Amen.</p>
+    </block>
+  </text>
+</component>

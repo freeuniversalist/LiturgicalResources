@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="intercession.akempis">
+  <subject>Intercession</subject>
+  <title>Prayer of Intercession</title>
+  <author>Thomas à Kempis</author>
+  <source ref="kempis-benham">Thomas à Kempis, The Imitation of Christ, book III, chapter 21, "That we must rest in God above all goods and gifts", opening prayer, translated by William Benham (1874). Modernised.</source>
+  <original>
+    <p>Grant me, most sweet and loving Jesus, to rest in Thee above every creature, above all health and beauty, above all glory and honour, above all power and dignity, above all knowledge and skilfulness, above all riches and arts, above all joy and exultation, above all fame and praise, above all sweetness and consolation, above all hope and promise, above all merit and desire, above all gifts and rewards which Thou canst give and pour forth, above all joy and jubilation which the mind is able to receive and feel; in a word, above Angels and Archangels and all the army of heaven, above all things visible and invisible, and above everything which Thou, O my God, art not.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Grant me, most loving Lord, to rest in you above every creature; above all health and beauty; above all glory and honor; above all power and dignity; above all knowledge and skill; above all riches and arts; above all joy and exultation; above all fame and praise; above all sweetness and consolation; above all hope and promise; above all merit and desire; above all gifts and rewards which you can give and pour forth; above all joy and jubilation which the mind is able to receive and feel; in a word, above angels and archangels and all the army of heaven; above all things visible and invisible; and above everything which you, my God, are not. Amen.</p>
+    </block>
+  </text>
+</component>

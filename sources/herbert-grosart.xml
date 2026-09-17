@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="herbert-grosart">
+  <name>The Complete Works in Verse and Prose of George Herbert</name>
+  <author>George Herbert; edited by Alexander B. Grosart</author>
+  <publisher>Robson and Sons, London (Fuller Worthies' Library)</publisher>
+  <date>1874</date>
+  <url>https://archive.org/details/completeworksinv0003reva_w6d0</url>
+  <note>Three volumes; public domain. Volume 3 holds A Priest to the Temple (1652) with the Author's Prayer before Sermon.</note>
+  <match>\bHerbert\b</match>
+</source>

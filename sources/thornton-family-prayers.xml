@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="thornton-family-prayers">
+  <name>Family Prayers</name>
+  <author>Henry Thornton; edited by R. H. Inglis</author>
+  <publisher>J. Hatchard and Son, London</publisher>
+  <date>1834</date>
+  <url>https://archive.org/details/familyprayersed00thorgoog</url>
+  <note>Morning and evening prayers for household use, published after
+  Thornton's death (1815); public domain.</note>
+  <match>\bThornton\b</match>
+</source>

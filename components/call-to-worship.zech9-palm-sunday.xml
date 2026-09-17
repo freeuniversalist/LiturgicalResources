@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-to-worship.zech9-palm-sunday">
+  <subject>Call to Worship</subject>
+  <scripture>Zechariah 9:9</scripture>
+  <source ref="web">Zechariah 9:9 (World English Bible), verbatim.</source>
+  <original>
+    <p>Zechariah 9:9 (WEB): Rejoice greatly, daughter of Zion! Shout, daughter of Jerusalem! Behold, your King comes to you! He is righteous, and having salvation; lowly, and riding on a donkey, even on a colt, the foal of a donkey.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>Rejoice greatly, daughter of Zion!</line>
+        <line indent="4">Shout, daughter of Jerusalem!</line>
+        <line>Behold, your king comes to you!</line>
+        <line indent="3">He is righteous, and having salvation;</line>
+        <line>lowly, and riding on a donkey,</line>
+        <line indent="3">even on a colt, the foal of a donkey.</line>
+      </p>
+    </block>
+  </text>
+</component>

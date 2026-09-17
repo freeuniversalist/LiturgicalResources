@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="confession.leonine">
+  <subject>Confession</subject>
+  <author>Book of Common Prayer, after the Leonine Sacramentary</author>
+  <source ref="bcp-1892-american">Collect for the Twelfth Sunday after Trinity, Book of Common Prayer, American Standard Book of 1892, p. 167. Cranmer's 1549 collect from the Gelasian and Leonine sacramentaries, in the 1662 revision as adopted in the American book (which omits "are" from "than we are to pray"). Modernised.</source>
+  <original>
+    <p>Almighty and everlasting God, who art always more ready to hear than we to pray, and art wont to give more than either we desire or deserve; Pour down upon us the abundance of thy mercy; forgiving us those things whereof our conscience is afraid, and giving us those good things which we are not worthy to ask, but through the merits and mediation of Jesus Christ, thy Son, our Lord. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Almighty and everlasting God, you are always more ready to hear than we to pray, and always give more than either we desire or deserve, pour down upon us the abundance of your mercy, forgiving us those things that our conscience is afraid of, and giving us those good things which we are not worthy to ask, but through the merits and mediation of Jesus Christ, your Son, our Lord.</p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

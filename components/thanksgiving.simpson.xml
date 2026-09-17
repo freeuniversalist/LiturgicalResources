@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="thanksgiving.simpson">
+  <subject>Thanksgiving</subject>
+  <title>Prayer of Thanksgiving</title>
+  <author>Hubert Louis Simpson</author>
+  <source ref="simpson-1929">Hubert L. Simpson, Let Us Worship God (1928; American edition 1929), Sunday prayers, morning, p. 55. The clause "for days bound each to each by natural piety" is omitted in the modernised text.</source>
+  <original>
+    <p>We thank Thee for the good things of this life, for food and raiment and shelter; for work to do and zest in the doing of it. We thank Thee for the perpetual touch of the divine in life, for the image of Thyself in the soul of man; for days bound each to each by natural piety; for the vigour of youth, the wisdom of age, and for all the lessons of experience; the steps by which we climb to higher things; for the courage of the brave, the indignation of the righteous, the kindness of the thoughtful, and all that makes us men and keeps us Godlike.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>We thank you for the good things of this life: for food and clothing and shelter; for work to do and zest in the doing of it. We thank you for the perpetual touch of the divine in life, for the image of yourself in the human soul; for the vigor of youth, the wisdom of age, and for all the lessons of experience; the steps by which we climb to higher things; for the courage of the brave, the indignation of the righteous, the kindness of the thoughtful, and all that makes us human and keeps us Godlike.</p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

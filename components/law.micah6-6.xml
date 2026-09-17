@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="law.micah6-6">
+  <subject>The Law</subject>
+  <title>Reading of the Law</title>
+  <scripture>Micah 6:6-8</scripture>
+  <source ref="oeb">Micah 6:6-8, Open English Bible, release 2025.6, CC0, verbatim; the divine name printed "Lord".</source>
+  <original>
+    <p>Micah 6:6-7 (OEB 2025.6): With what should I come before the LORD? Bow myself before the God on high? Should I come before him with burnt-offerings, with calves a year old? Will the LORD be pleased with thousands of rams, With ten thousand streams of oil? Should I give him my firstborn son for my guilt, the fruit of my body for the sin of my soul?</p>
+    <p>Micah 6:8 (OEB 2025.6): The LORD has told you what is good, what he demands of you: Only to do justice and love mercy, and to walk humbly with your God.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>With what should I come before the Lord?</line>
+        <line indent="4">Bow myself before the God on high?</line>
+        <line>Should I come before him with burnt-offerings,</line>
+        <line indent="4">with calves a year old?</line>
+        <line>Will the Lord be pleased with thousands of rams,</line>
+        <line indent="4">With ten thousand streams of oil?</line>
+        <line>Should I give him my firstborn son for my guilt,</line>
+        <line indent="4">the fruit of my body for the sin of my soul?</line>
+      </p>
+      <p>
+        <line>The Lord has told you what is good,</line>
+        <line indent="4">what he demands of you:</line>
+        <line>Only to do justice and love mercy,</line>
+        <line indent="4">and to walk humbly with your God.</line>
+      </p>
+    </block>
+  </text>
+</component>

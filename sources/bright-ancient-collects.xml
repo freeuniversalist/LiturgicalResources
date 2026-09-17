@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="bright-ancient-collects">
+  <name>Ancient Collects and Other Prayers, Selected for Devotional Use from Various Rituals</name>
+  <author>William Bright (editor and translator)</author>
+  <publisher>J. H. and Jas. Parker, Oxford and London</publisher>
+  <date>1864 (third edition; first 1857)</date>
+  <url>https://archive.org/details/ancientcollects00collgoog</url>
+  <note>Public domain (Bright died 1901). Later editions alter small points of wording; the sixth edition (1887) is at https://archive.org/details/ancientcollecsot0000will</note>
+  <match>\bBright\b|Ancient Collects</match>
+</source>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="illumination.calvin">
+  <subject>Illumination</subject>
+  <title>Prayer for Illumination</title>
+  <author>Jean Calvin</author>
+  <source ref="calvin-edwards-1897">John Calvin, prayer closing a lecture on Hosea, in Scripture Texts with Expositions and Sentence-Prayers from Calvin's Commentaries on the Minor Prophets, compiled by Charles E. Edwards (1897), no. 20, p. 31; John Owen's translation (Calvin Translation Society, 1846). Modernised.</source>
+  <original>
+    <p>Grant, Almighty God, that as thou shinest on us by thy word, we may not be blind at mid-day, nor wilfully seek darkness, and thus lull our minds asleep: but may we be roused daily by thy words, and may we stir up ourselves more and more to fear thy name and thus present ourselves and all our pursuits, as a sacrifice to thee, that thou mayest peaceably rule, and perpetually dwell in us, until thou gatherest us to thy celestial habitation, where there is reserved for us eternal rest and glory through Jesus Christ our Lord. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Grant, Almighty God, that as you shine on us by your Word, we may not be blind at midday, nor willfully seek darkness, and thus lull our minds asleep; but may we be roused daily by your words, and may we stir up ourselves more and more to fear your name and thus present ourselves and all our pursuits as a sacrifice to you, that you may peaceably rule, and perpetually dwell in us, until you gather us to your celestial habitation, where there is reserved for us eternal rest and glory, through Jesus Christ our Lord. Amen.</p>
+    </block>
+  </text>
+</component>

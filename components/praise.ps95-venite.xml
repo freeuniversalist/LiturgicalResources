@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="praise.ps95-venite">
+  <subject>Praise</subject>
+  <scripture>Psalm 95:1-7</scripture>
+  <source ref="coverdale-modern">Psalm 95:1-7 (the Venite), Common Coverdale Psalter, modern text, CC0, verbatim, followed by the Gloria Patri in its traditional English form.</source>
+  <original>
+    <p>Psalm 95:1-7 (Common Coverdale Psalter, modern): O come, let us sing to the Lord; * let us heartily rejoice in the strength of our salvation. Let us come before his presence with thanksgiving, * and show ourselves glad in him with psalms. For the Lord is a great God, * and a great King above all gods. In his hand are all the corners of the earth, * and the strength of the hills is his also. The sea is his, and he made it; * and his hands prepared the dry land. O come, let us worship and bow down, * and kneel before the Lord our Maker. For he is the Lord our God, * and we are the people of his pasture, and the sheep of his hand.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>
+        <line>O come, let us sing to the Lord;</line>
+        <line indent="4">let us heartily rejoice in the strength of our salvation.</line>
+        <line>Let us come before his presence with thanksgiving,</line>
+        <line indent="4">and show ourselves glad in him with psalms.</line>
+      </p>
+      <p>
+        <line>For the Lord is a great God,</line>
+        <line indent="4">and a great King above all gods.</line>
+        <line>In his hand are all the corners of the earth,</line>
+        <line indent="4">and the strength of the hills is his also.</line>
+        <line>The sea is his, and he made it;</line>
+        <line indent="4">and his hands prepared the dry land.</line>
+      </p>
+      <p>
+        <line>O come, let us worship and bow down,</line>
+        <line indent="4">and kneel before the Lord our Maker.</line>
+        <line>For he is the Lord our God,</line>
+        <line indent="4">and we are the people of his pasture,</line>
+        <line indent="4">and the sheep of his hand.</line>
+      </p>
+      <rubric>Gloria Patri</rubric>
+      <p>
+        <line>Glory be to the Father</line>
+        <line indent="4">and to the Son</line>
+        <line indent="4">and to the Holy Spirit:</line>
+        <line>As it was in the beginning,</line>
+        <line indent="4">is now and ever shall be,</line>
+        <line indent="4">world without end.</line>
+        <line>Amen.</line>
+      </p>
+    </block>
+  </text>
+</component>

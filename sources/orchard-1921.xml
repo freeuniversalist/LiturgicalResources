@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="orchard-1921">
+  <name>The Order of Divine Service for Public Worship, the Administration of the Sacraments and Other Rites and Ceremonies, and a Selection from the Daily Offices, Compiled from Ancient and Modern Devotions</name>
+  <author>W. E. Orchard (compiler)</author>
+  <publisher>Humphrey Milford, Oxford University Press, London</publisher>
+  <date>1921</date>
+  <url>https://archive.org/details/orderofdivinese00orch</url>
+  <note>Public domain in the US (published 1921); Orchard died 1955. Its "Simple Observance of the Lord's Supper" (pp. 116–118) supplies the eucharistic versicles, which are scripture in the Revised Version arranged by Orchard.</note>
+  <match>\bOrchard\b</match>
+</source>

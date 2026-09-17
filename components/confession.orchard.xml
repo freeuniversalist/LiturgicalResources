@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="confession.orchard">
+  <subject>Confession</subject>
+  <author>W E Orchard</author>
+  <source ref="orchard-temple">W. E. Orchard, The Temple: A Book of Prayers (1913), p. 113. Modernised; the closing sentence, "Sweep away our fears, our compromise, our weakness, lest at last we be found fighting against Thee", is omitted. Noyes (1934) misattributed it to Orchard's Order of Divine Service (1921).</source>
+  <original>
+    <p>How often we have prayed for the coming of Thy kingdom, yet when it has sought to come through us we have sometimes barred the way; we have wanted it without in others, but not in our own hearts. We feel it is we who stand between man's need and Thee; between ourselves and what we might be; and we have no trust in our own strength, or loyalty, or courage. O give us to love Thy will, and seek Thy kingdom first of all. Sweep away our fears, our compromise, our weakness, lest at last we be found fighting against Thee. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>How often we have prayed for the coming of your Kingdom, yet when it has sought to come through us we have sometimes barred the way. We have wanted it without in others, but not in our own hearts. We feel it is we who stand between people's need and you; between ourselves and what we might be; and we have no trust in our own strength, or loyalty, or courage. Give us to love your will, and seek your Kingdom first of all.</p>
+    </block>
+  </text>
+</component>

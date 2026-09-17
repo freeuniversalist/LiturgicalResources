@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="call-to-worship.luke11-pentecost">
+  <subject>Call to Worship</subject>
+  <scripture>Luke 11:13</scripture>
+  <source ref="oeb">Luke 11:13, Open English Bible, release 2025.6, CC0, verbatim.</source>
+  <original>
+    <p>Luke 11:13 (OEB 2025.6): If you, then, naturally wicked though you are, know how to give good gifts to your children, how much more will the Father in heaven give the Holy Spirit to those who ask him!”</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>If you, then, naturally wicked though you are, know how to give good gifts to your children, how much more will the Father in heaven give the Holy Spirit to those who ask him!</p>
+    </block>
+  </text>
+</component>

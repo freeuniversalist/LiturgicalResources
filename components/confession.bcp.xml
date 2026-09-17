@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="confession.bcp">
+  <subject>Confession</subject>
+  <author>Thomas Cranmer in the Book of Common Prayer (1552)</author>
+  <source ref="edward-vi-prayer-books">The General Confession at Morning Prayer, Book of Common Prayer 1552 (its first appearance), in The First and Second Prayer-Books of King Edward the Sixth (Everyman, 1913), p. 348. Modernised; the 1662 book changes only "be penitent" to "are penitent".</source>
+  <original>
+    <p>Almighty and most mercyfull father, we have erred and strayed from thy wayes, lyke lost shepe. We have folowed too much the devises and desyres of oure owne hearts. We have offended against thy holy lawes. We have left undone those things whiche we oughte to have done, and we have done those thinges which we ought not to have done, and there is no health in us: but thou, O Lord, have mercy upon us miserable offenders. Spare thou them, O God, which confesse theyr faultes. Restore thou them that be penitent, according to thy promyses declared unto mankynde, in Christe Jesu oure Lorde. And graunt, O most merciful father, for his sake, that we may hereafter live a godly, righteous, and sobre life, to the glory of thy holy name. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Almighty and most merciful Father, we have erred and strayed from your ways like lost sheep. We have followed too much the devices and desires of our own hearts. We have offended against your holy laws. We have left undone those things which we ought to have done, and we have done those things which we ought not to have done, and there is no health in us. But you, O Lord, have mercy upon us, miserable offenders. Spare those, O God, who confess their faults. Restore those who are repentant, according to your promises declared to mankind, in Christ Jesus our Lord. And grant, O most merciful Father, for his sake, that we may hereafter live a godly, righteous, and sober life, to the glory of your holy name. Amen.</p>
+    </block>
+  </text>
+</component>

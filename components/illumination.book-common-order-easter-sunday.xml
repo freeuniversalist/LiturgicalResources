@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="illumination.book-common-order-easter-sunday">
+  <subject>Illumination</subject>
+  <title>Prayer for Illumination</title>
+  <author>Euchologion (Church Service Society, 1869)</author>
+  <source ref="euchologion-1869">Collect at Morning Prayer, Euchologion (Church Service Society, 1869), p. 145, expanding a Mozarabic collect ("O God, who dividest the day from the night", in Bright, Ancient Collects). Modernised. Noyes (1934) cites the Book of Common Order, its successor.</source>
+  <original>
+    <p>O God, who dividest the day from the night, separate our deeds from the gloom of darkness. As Thou hast awakened our bodies from sleep, so, we beseech Thee, awaken our souls from sin. As Thou hast caused the light of day to shine on our bodily eyes, cause the light of Thy Word and Holy Spirit to illuminate our heart; and so give us grace, as the children of light, to walk in all holy obedience before Thy face this day, that in all our thoughts, words, and dealings we may endeavour to keep faith and a clean conscience towards Thee and towards all men; through Jesus Christ our Lord. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>God, you divide the day from the night: separate our deeds from the gloom of darkness. As you have awakened our bodies from sleep, so, we pray you, awaken us from sin. As you have caused the light of day to shine on our bodily eyes, cause the light of your Word and Spirit to illuminate our hearts. Give us grace, as the children of light, to walk in all holy obedience before your face this day, that in all our thoughts, words, and dealings, we may endeavour to keep faith and a clean conscience towards you and towards all people; through Jesus Christ our Lord.</p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

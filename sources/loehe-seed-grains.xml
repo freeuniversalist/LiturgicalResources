@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="loehe-seed-grains">
+  <name>Seed-Grains of Prayer: A Manual for Evangelical Christians</name>
+  <author>Wilhelm Löhe; translated by H. A. Weller</author>
+  <publisher>Wartburg Publishing House, Chicago</publisher>
+  <date>1914</date>
+  <url>https://archive.org/details/seedgrainsofpray00lh</url>
+  <note>Translated from the 36th German edition; published in the United States in 1914, so public domain there. Löhe died 1872.</note>
+  <match>Seed-Grains|\bL(ö|oe)he\b</match>
+</source>

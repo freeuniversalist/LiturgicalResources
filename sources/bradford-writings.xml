@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="bradford-writings">
+  <name>The Writings of John Bradford, vol. 1: Sermons, Meditations, Examinations</name>
+  <author>John Bradford; edited by Aubrey Townsend for the Parker Society</author>
+  <publisher>Cambridge University Press</publisher>
+  <date>1848</date>
+  <url>https://archive.org/details/writingsofjohnbr01brad</url>
+  <note>Parker Society edition; public domain.</note>
+  <match>\bBradford\b</match>
+</source>

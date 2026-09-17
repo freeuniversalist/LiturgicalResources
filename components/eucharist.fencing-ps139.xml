@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.fencing-ps139">
+  <subject>Eucharist</subject>
+  <title>The Fencing of the Table</title>
+  <scripture>1 Corinthians 11:27-28</scripture>
+  <source ref="web">1 Corinthians 11:27-28, Psalm 139:23-24 and 1 John 1:9 (World English Bible), verbatim. Every spoken word is scripture.</source>
+  <original>
+    <p>1 Corinthians 11:27-28 (WEB): Therefore whoever eats this bread or drinks the Lord’s cup in a way unworthy of the Lord will be guilty of the body and the blood of the Lord. But let a man examine himself, and so let him eat of the bread, and drink of the cup.</p>
+    <p>Psalm 139:23-24 (WEB): Search me, God, and know my heart. Try me, and know my thoughts. See if there is any wicked way in me, and lead me in the everlasting way.</p>
+    <p>1 John 1:9 (WEB): If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>Therefore whoever eats this bread or drinks the Lord’s cup in a way unworthy of the Lord will be guilty of the body and the blood of the Lord. But let a man examine himself, and so let him eat of the bread, and drink of the cup.</p>
+      <p>
+        <em>Silence is kept.</em>
+      </p>
+      <response>
+        <line>Search me, God, and know my heart.</line>
+        <line>Try me, and know my thoughts.</line>
+        <line>See if there is any wicked way in me,</line>
+        <line>and lead me in the everlasting way.</line>
+      </response>
+      <p>If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.</p>
+    </block>
+  </text>
+</component>

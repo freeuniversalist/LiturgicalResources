@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="coverdale-modern">
+  <name>The Common Coverdale Psalter (modern text)</name>
+  <author>Miles Coverdale (1535), as revised in the American Books of Common Prayer of 1789–1928, with pronouns, verb forms and archaisms modernised</author>
+  <publisher>github.com/freeuniversalist/CommonCoverdalePsalter</publisher>
+  <date>2026</date>
+  <url>https://github.com/freeuniversalist/CommonCoverdalePsalter</url>
+  <note>CC0. The bcp1928 text in the same file is the public-domain Coverdale psalter of the 1928 American Prayer Book.</note>
+  <match>Coverdale</match>
+</source>

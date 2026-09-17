@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="cameron-prayers-1921">
+  <name>Prayers for Use in Public Worship</name>
+  <author>Hugh Cameron</author>
+  <publisher>Alexander Brunton, Edinburgh</publisher>
+  <date>1921</date>
+  <url>https://archive.org/details/prayersforuseinp0000came</url>
+  <note>The author's own prayers from his ministry at Newington, Edinburgh. Public domain (published 1921; Cameron 1855–1934).</note>
+  <match>\bCameron\b</match>
+</source>

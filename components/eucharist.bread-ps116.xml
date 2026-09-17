@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="eucharist.bread-ps116">
+  <subject>Eucharist</subject>
+  <title>The Bread</title>
+  <scripture>Psalm 116:10, 15; 1 Corinthians 10:16-17</scripture>
+  <source ref="bcp-1979 web">Psalm 116:10, 15 in the 1979 Book of Common Prayer psalter (its numbering; Hebrew 116:12, 17), verbatim. 1 Corinthians 10:16b-17 adapted from the World English Bible, with "communion" and "one bread" after the King James Version. Every spoken word is scripture.</source>
+  <original>
+    <p>Psalm 116:10 (BCP 1979): How shall I repay the LORD for all the good things he has done for me?</p>
+    <p>Psalm 116:15 (BCP 1979): I will offer you the sacrifice of thanksgiving and call upon the Name of the LORD.</p>
+    <p>1 Corinthians 10:16-17 (WEB): The cup of blessing which we bless, isn’t it a sharing of the blood of Christ? The bread which we break, isn’t it a sharing of the body of Christ? Because there is one loaf of bread, we, who are many, are one body; for we all partake of the one loaf of bread.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <rubric>Pray freely, or say</rubric>
+      <p>
+        <line>How shall I repay the Lord</line>
+        <line>for all the good things he has done for me?</line>
+      </p>
+      <p>
+        <line>I will offer you the sacrifice of thanksgiving</line>
+        <line>and call upon the Name of the Lord.</line>
+      </p>
+      <rubric>The bread is broken</rubric>
+      <p>The bread which we break, isn’t it a communion of the body of Christ? Because we, who are many, are one bread, one body; for we all partake of the one bread.</p>
+      <rubric>The bread is distributed and eaten</rubric>
+    </block>
+  </text>
+</component>

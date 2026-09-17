@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="eddy-universalism">
+  <name>Universalism in America: A History</name>
+  <author>Richard Eddy</author>
+  <publisher>Universalist Publishing House, Boston</publisher>
+  <date>1884–1886</date>
+  <url>https://archive.org/details/universalisminam02eddy</url>
+  <note>Two volumes; public domain. Volume 2 (1886) prints the 1803
+  Winchester Profession of Belief from the Convention minutes.</note>
+  <match>\bEddy\b</match>
+</source>

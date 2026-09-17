@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<component id="prayers-people.prayers-people">
+  <subject>Prayers of the People</subject>
+  <source ref="bcp-1979">Adapted from the Prayers of the People, Form IV, Book of Common Prayer (1979), pp. 388–389, with the response "God of mercy, hear our prayer" for "Lord, in your mercy, hear our prayer"; the petitions for thanksgiving and for the oppressed are additions. The closing prayer is the book's prayer For a Birthday (no. 51, p. 829), made plural.</source>
+  <original>
+    <p>Prayers of the People, Form IV (BCP 1979): Let us pray for the Church and for the world. Grant, Almighty God, that all who confess your Name may be united in your truth, live together in your love, and reveal your glory in the world. Lord, in your mercy, Hear our prayer. Guide the people of this land, and of all the nations, in the ways of justice and peace; that we may honor one another and serve the common good. Lord, in your mercy, Hear our prayer. Give us all a reverence for the earth as your own creation, that we may use its resources rightly in the service of others and to your honor and glory. Lord, in your mercy, Hear our prayer. Bless all whose lives are closely linked with ours, and grant that we may serve Christ in them, and love one another as he loves us. Lord, in your mercy, Hear our prayer. Comfort and heal all those who suffer in body, mind, or spirit; give them courage and hope in their troubles, and bring them the joy of your salvation. Lord, in your mercy, Hear our prayer. We commend to your mercy all who have died, that your will for them may be fulfilled; and we pray that we may share with all your saints in your eternal kingdom. Lord, in your mercy, Hear our prayer.</p>
+    <p>For a Birthday (BCP 1979, p. 829): Watch over thy child, O Lord, as his days increase; bless and guide him wherever he may be. Strengthen him when he stands; comfort him when discouraged or sorrowful; raise him up if he fall; and in his heart may thy peace which passeth understanding abide all the days of his life; through Jesus Christ our Lord. Amen.</p>
+  </original>
+  <text>
+    <block type="prayer">
+      <p>For all who confess your name, that we may be united in your truth, live together in your love, and reveal your glory in all the earth.</p>
+      <response>
+        <line>God of mercy</line>
+        <line>Hear our prayer.</line>
+        <line />
+      </response>
+      <p>For the people of this land and of all the nations on earth that you may guide us in the ways of justice and peace and that we may honor one another and serve the common good.</p>
+      <response>
+        <line>God of mercy</line>
+        <line>Hear our prayer.</line>
+        <line />
+      </response>
+      <p>For a common reverence for the earth as your own creation that we may use its resources rightly in the service of others and to your honor and glory.</p>
+      <response>
+        <line>God of mercy</line>
+        <line>Hear our prayer.</line>
+        <line />
+      </response>
+      <p>For all the ways in which you have blessed us, we give you thanks. Let us name before God the things for which we are truly grateful.</p>
+      <response>
+        <line>God of mercy</line>
+        <line>Hear our prayer.</line>
+        <line />
+      </response>
+      <p>For all those who are oppressed, reviled, and cast out by the powers and principalities of this world. That your love and mercy may find them in their time of need. And that we may work as your body to free them from their oppression and to demonstrate your love through our own actions.</p>
+      <response>
+        <line>God of mercy</line>
+        <line>Hear our prayer.</line>
+        <line />
+      </response>
+      <p>For all those whose lives are closely linked with ours that they might be blessed and that we may serve Christ in them and love one another as you love us.</p>
+      <response>
+        <line>God of mercy</line>
+        <line>Hear our prayer.</line>
+        <line />
+      </response>
+      <p>For all those who suffer in body, mind or spirit. Comfort and heal them. Give them courage and hope in their troubles and bring them the joy of your salvation, especially those whose names we now lift up in prayer.</p>
+      <response>
+        <line>God of mercy</line>
+        <line>Hear our prayer.</line>
+        <line />
+      </response>
+      <p>We commend to your mercy all those who have died that your will for them may be fulfilled, especially all those whose names we now lift up in prayer.</p>
+      <response>
+        <line>God of mercy</line>
+        <line>Hear our prayer.</line>
+        <line />
+      </response>
+      <p>Watch over your servants, O God, as their days increase. Bless and guide them wherever they may be. Strengthen them when they stand. Comfort them when discouraged or sorrowful. Raise them up if they fall and in their hearts may your peace which passes understanding abide all the days of their lives through Jesus Christ our savior.</p>
+      <p>Amen.</p>
+    </block>
+  </text>
+</component>

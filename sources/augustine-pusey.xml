@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source id="augustine-pusey">
+  <name>The Confessions of S. Augustine, revised from a former translation</name>
+  <author>Augustine of Hippo; translated by E. B. Pusey</author>
+  <publisher>John Henry Parker, Oxford (Library of the Fathers, vol. 1)</publisher>
+  <date>1838</date>
+  <url>https://archive.org/details/confessionsofsau00auguuoft</url>
+  <note>Public domain (Pusey died 1882). Also transcribed at https://ccel.org/ccel/augustine/confess.html</note>
+  <match>\bPusey\b</match>
+</source>
